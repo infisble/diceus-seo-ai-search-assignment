@@ -1,0 +1,15 @@
+{
+  "title": "Others made this pivot: the winners put products first",
+  "kicker": "Six insurance software companies that started as services firms (public sources, Wayback snapshots)",
+  "notes": "Source: data/pivot_case_studies.md. Adacta sold its ~300-person Dynamics services unit to BE-terna (2019); adacta.si now 301s to adacta-fintech.com; Gartner/Celent recognition and Volpi Capital investment (2021). Decerto: one domain with separate Products and Services menus; it still sells IT outsourcing / custom development alongside its insurance products (fact-check #15); satellite higson.io splits authority (no canonical). Majesco: demerged from Mastek 2014; 2016 nav mixed dev/testing services; today no Services in top nav; Gartner MQ Leader (2025), 375+ customers (Feb 2026, after the Vitech acquisition); acquired by Thoma Bravo ~$729M (2020). Exigen -> EIS: services spun off, product renamed. Stratoflow -> Openkoda: new product domain, services sister brand as implementation partner (works only for a brand-new product without search equity). Damco: InsureEdge still under a Services menu = where DICEUS is today.",
+  "cases": [
+    {"name": "Adacta → AdInsure", "move": "Sold services unit (2019), product company on new domain", "lesson": "Full commitment; analyst recognition and investment followed"},
+    {"name": "Decerto", "move": "Insurance products + software-house services, one domain", "lesson": "Closest to DICEUS: separate Products and Services menus"},
+    {"name": "Mastek → Majesco", "move": "Demerger (2014); services dropped from top nav", "lesson": "Gartner MQ Leader, 375+ customers, acquired for ~$729M"},
+    {"name": "Exigen → EIS", "move": "Services spun off, product brand renamed", "lesson": "Clear product identity for buyers and analysts"},
+    {"name": "Stratoflow → Openkoda", "move": "New product domain; dev shop kept as partner", "lesson": "Works only for a new product with no search equity yet"},
+    {"name": "Damco → InsureEdge", "move": "Product left inside a services site", "lesson": "Warning: weakest product presence = DICEUS today"}
+  ],
+  "verdict_head": "Recommended for DICEUS: Model A, one domain with products first (the Decerto / Majesco path)",
+  "verdict": "Keep diceus.com: it already ranks #1 for captive and RRG software, and the Capterra, Gartner and Microsoft listings point there. A new domain would throw that away. Demote services in navigation now. Prune or merge them only when GSC and CRM show they earn nothing (a 'virtual spin-off', not a blind cut)."
+}

@@ -1,0 +1,677 @@
+{
+  "meta": {
+    "collected": "2026-10-06",
+    "method": "WebSearch tool (standard mode), one search per query, US English. Results recorded in the order returned.",
+    "caveat": "PROXY, NOT A GOOGLE US SERP REPLICA. The WebSearch backend returns ~9-10 links, often including multiple locale/duplicate variants of one page (e.g. oracle.com/br, /nl, /ae), staging hosts and scraper/spam pages that Google would normally filter or cluster. Positions are therefore indicative only. Locale duplicates of the same page are collapsed into one row (noted in 'note'); 'pos' = first position returned. No paid SEO tool (Ahrefs/Semrush) data was available; no search volumes are implied.",
+    "page_type_codes": "vendor_product | vendor_solution (segment/LOB/landing) | listicle_review | directory (G2/Capterra/GetApp/SourceForge/FitGap/marketplace) | agency_service | blog_guide | news_pr | analyst (Gartner/Celent/Aite/CB Insights/Verdantix) | other_irrelevant | spam_scraper",
+    "diceus_note": "GetApp/Capterra/SoftwareAdvice listings with IDs 2089539 (PAS), 2089851/1083150 (Broker Web Portal), 2089935/1083153 (Customer Portal), 2090006/1083155 (Data Warehouse), 2092898/1096890 (Reinsurance Financial & Data Exchange), 2093071/1096952 (Captive Management Platform), 2093070 (Captive Owner Portal), 1083157 (Underwriting Workbench) are DICEUS listings. FACT for 2089539 (verified via WebFetch: vendor 'Diceus', 0 reviews) and 2092898 (search snippet names DICEUS); INFERENCE for the others based on identical listing ID ranges, naming matching DICEUS product names and identical creation pattern. These count as 'diceus_present: directory_listing'."
+  },
+  "observations": [
+    {
+      "query": "policy administration system",
+      "territory": "Policy admin",
+      "intent": "TOFU informational / definitional, with BOFU vendor product pages",
+      "results": [
+        {"pos": 1, "domain": "redditchstandard.co.uk", "url": "https://redditchstandard.co.uk/lifestyle/what-is-a-policy-administration-system-and-why-insurance-companies-need-it-in-2026/", "page_type": "blog_guide", "note": "sponsored-style article on UK local news site; returned twice"},
+        {"pos": 3, "domain": "getstrada.com", "url": "https://www.getstrada.com/glossary/policy-administration-system", "page_type": "blog_guide", "note": "glossary"},
+        {"pos": 4, "domain": "oracle.com", "url": "https://www.oracle.com/financial-services/insurance/policy-administration/", "page_type": "vendor_product", "note": "5 locale variants returned (africa-fr, br, nl, ae, global)"},
+        {"pos": 6, "domain": "getapp.co.uk", "url": "https://www.getapp.co.uk/software/2089539/policy-administration-system", "page_type": "directory", "note": "DICEUS listing (verified); also getapp.com.au variant"}
+      ],
+      "diceus_present": "directory_listing",
+      "diceus_url": "https://www.getapp.co.uk/software/2089539/policy-administration-system (pos 6; also getapp.com.au)",
+      "observation": "Head term: definitional content + Oracle (tier-1) product page dominate; DICEUS shows only via a 0-review GetApp listing, not its own page."
+    },
+    {
+      "query": "insurance policy administration software",
+      "territory": "Policy admin",
+      "intent": "MOFU/BOFU mixed (guides + vendor pages + directories)",
+      "results": [
+        {"pos": 1, "domain": "decerto.com", "url": "https://www.decerto.com/post/the-future-of-insurance-policy-administration-software", "page_type": "blog_guide", "note": "also /us/ variant (pos 2) - Polish insurance software vendor/agency"},
+        {"pos": 3, "domain": "getapp.co.uk", "url": "https://www.getapp.co.uk/software/2089539/policy-administration-system", "page_type": "directory", "note": "DICEUS listing; also .com.au"},
+        {"pos": 5, "domain": "llm.dataforseo.com", "url": "https://llm.dataforseo.com/category/insurance-policy-administration-systems/", "page_type": "directory"},
+        {"pos": 6, "domain": "damcogroup.com", "url": "https://damcogroup.com/insurance/?p=2476", "page_type": "agency_service"},
+        {"pos": 7, "domain": "softwareadvice.com.au", "url": "https://www.softwareadvice.com.au/software/529761/AdInsure-Policy-Administration", "page_type": "directory", "note": "Adacta AdInsure"},
+        {"pos": 8, "domain": "insuresoft.com", "url": "https://insuresoft.com/pas", "page_type": "vendor_product", "note": "also dev5.insuresoft.com staging indexed"}
+      ],
+      "diceus_present": "directory_listing",
+      "diceus_url": "https://www.getapp.co.uk/software/2089539/policy-administration-system (pos 3)",
+      "observation": "Mid-tier vendors/agencies (Decerto, Damco, Insuresoft) win with long-form guides; directories are a meaningful second surface where DICEUS already sits."
+    },
+    {
+      "query": "policy administration system for MGAs",
+      "territory": "Policy admin",
+      "intent": "BOFU vendor-selection (segment pages) + MOFU blog",
+      "results": [
+        {"pos": 1, "domain": "vertafore.com", "url": "https://www.vertafore.com/resources/blog/why-policy-administration-systems-are-key-mgas", "page_type": "blog_guide"},
+        {"pos": 2, "domain": "britecore.com", "url": "https://www.britecore.com/why-britecore/for-mgas", "page_type": "vendor_solution"},
+        {"pos": 3, "domain": "preqin.com", "url": "https://www.preqin.com/data/profile/asset/mga-systems--inc-/388532", "page_type": "directory"},
+        {"pos": 4, "domain": "qorusglobal.com", "url": "https://www.qorusglobal.com/innovations/27821-mga-systems", "page_type": "directory"},
+        {"pos": 5, "domain": "vertafore.com", "url": "https://www.vertafore.com/products/mga-systems", "page_type": "vendor_product"},
+        {"pos": 6, "domain": "g2.com", "url": "https://www.g2.com/products/mga-systems/discuss", "page_type": "directory"},
+        {"pos": 7, "domain": "selectsys.com", "url": "https://www.selectsys.com/resources/policy-administration-for-mgas", "page_type": "blog_guide", "note": "Expert Insured; plus 2 state-specific AMS landing pages (texas, california) at pos 8-9"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Segment-specific 'for MGAs' pages (BriteCore, Vertafore MGA Systems, SelectSys/Expert Insured) win; SelectSys even ranks programmatic state pages. DICEUS has no MGA segment page ranking."
+    },
+    {
+      "query": "P&C policy administration system",
+      "territory": "Policy admin",
+      "intent": "BOFU vendor + analyst",
+      "results": [
+        {"pos": 1, "domain": "damcogroup.com", "url": "https://www.damcogroup.com/insurance/?p=789", "page_type": "agency_service", "note": "Damco P&C PAS solution page"},
+        {"pos": 2, "domain": "guidewire.com", "url": "https://www.guidewire.com/about/press-center/press-releases/20060315/guidewire-software-announces-release-guidewire", "page_type": "news_pr", "note": "2006 PolicyCenter press release; 8 locale variants returned"},
+        {"pos": 10, "domain": "celent.com", "url": "https://www.celent.com/en/insights/policy-administration-systems-p-and-c-insurance-north-america-edition", "page_type": "analyst"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Tier-1 (Guidewire) brand authority + Celent analyst report; Damco (services firm) shows a services firm can rank with a dedicated P&C PAS page."
+    },
+    {
+      "query": "policy administration system modernization",
+      "territory": "Policy admin",
+      "intent": "TOFU/MOFU thought leadership",
+      "results": [
+        {"pos": 1, "domain": "pwc.ch", "url": "https://www.pwc.ch/en/publications/2025/modernising-policy-administration-with-markov.pdf", "page_type": "blog_guide", "note": "consultancy PDF"},
+        {"pos": 2, "domain": "hexaware.com", "url": "https://hexaware.com/blogs/the-future-of-policy-administration-systems-modernizing-insurance-core-platforms/", "page_type": "blog_guide"},
+        {"pos": 3, "domain": "bestow.com", "url": "https://www.bestow.com/post/modernizing-life-insurance-policy-administration-the-real-transformation-carriers-cant-afford-to-delay", "page_type": "blog_guide"},
+        {"pos": 4, "domain": "insurancethoughtleadership.com", "url": "https://www.insurancethoughtleadership.com/policy-administration-ripe-modernizing", "page_type": "news_pr"},
+        {"pos": 6, "domain": "insuremo.com", "url": "https://insuremo.com/en/whitepaper-core-modernisation-without-replacement", "page_type": "blog_guide", "note": "whitepaper"},
+        {"pos": 7, "domain": "equisoft.com", "url": "https://www.equisoft.com/insights/insurance/how-one-carrier-successfully-modernized-their-policy-management-software", "page_type": "blog_guide", "note": "case study"},
+        {"pos": 8, "domain": "oracle.com", "url": "https://www.oracle.com/financial-services/insurance/greenfield-modernization", "page_type": "vendor_solution"},
+        {"pos": 9, "domain": "insurancetech.com", "url": "https://insurancetech.com/policy-administration/the-state-of-policy-admin-systems-modernization/d/d-id/1314943.html", "page_type": "news_pr"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Pure thought-leadership SERP: consultancies (PwC, Hexaware), vendor blogs and trade press. Winnable with a strong POV/case-study article, not a product page."
+    },
+    {
+      "query": "claims management software for insurance",
+      "territory": "Claims",
+      "intent": "MOFU comparison/listicle",
+      "results": [
+        {"pos": 1, "domain": "whatfix.com", "url": "https://whatfix.com/blog/claims-management-software/", "page_type": "listicle_review", "note": "'10 Best...'; returned twice"},
+        {"pos": 3, "domain": "salesforce.com", "url": "https://www.salesforce.com/in/financial-services/property-casualty-insurance-software/claims-management-software/", "page_type": "vendor_product"},
+        {"pos": 4, "domain": "atlas.verdantix.com", "url": "https://atlas.verdantix.com/categories/claims-management-software", "page_type": "analyst"},
+        {"pos": 5, "domain": "flowforma.com", "url": "https://www.flowforma.com/blog/claims-management-software", "page_type": "listicle_review"},
+        {"pos": 6, "domain": "softwarereviews.com", "url": "https://www.softwarereviews.com/categories/insurance-claims-management", "page_type": "directory"},
+        {"pos": 8, "domain": "trustradius.com", "url": "https://trustradius.com/insurance-claims-management", "page_type": "directory"},
+        {"pos": 9, "domain": "g2.com", "url": "https://g2.com/products/claimsgateway/discuss", "page_type": "directory"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Listicles + review directories own this head term; vendors named inside lists (Guidewire ClaimCenter, Ventiv, Insurity). Route = get listed/reviewed, not outrank."
+    },
+    {
+      "query": "insurance claims management system",
+      "territory": "Claims",
+      "intent": "MOFU directories/analyst + BOFU vendor",
+      "results": [
+        {"pos": 1, "domain": "gartner.com", "url": "https://www.gartner.com/reviews/market/insurance-claims-management-system", "page_type": "analyst", "note": "Gartner Peer Insights market page"},
+        {"pos": 2, "domain": "insuremo.com", "url": "https://insuremo.com/en/partner-app/nsure-claims-management-system", "page_type": "directory", "note": "InsureMO partner marketplace"},
+        {"pos": 4, "domain": "lollypop.design", "url": "https://lollypop.design/blog/2026/july/claims-management-system/", "page_type": "blog_guide"},
+        {"pos": 5, "domain": "comarch.com", "url": "https://comarch.com/finance/products/comarch_insurance_claims", "page_type": "vendor_product"},
+        {"pos": 7, "domain": "g2.com", "url": "https://www.g2.com/products/vision-for-claim-management/reviews", "page_type": "directory"},
+        {"pos": 9, "domain": "vmaxindia.com", "url": "https://vmaxindia.com/claims-management-system.php", "page_type": "vendor_product"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Gartner Peer Insights ranks #1 - DICEUS already has Gartner reviews (5/5, 6 reviews badge on its site) so a Gartner Peer Insights presence in this market is a realistic visibility lever. InsureMO marketplace also ranks (DICEUS is an InsureMO partner)."
+    },
+    {
+      "query": "claims administration software for self-insured",
+      "territory": "Claims",
+      "intent": "BOFU vendor-selection (niche)",
+      "results": [
+        {"pos": 1, "domain": "blog.claimable.com", "url": "https://blog.claimable.com/claims-management-software-for-self-insured-companies/", "page_type": "blog_guide"},
+        {"pos": 2, "domain": "g2.com", "url": "https://g2.com/products/claimsgateway/discuss", "page_type": "directory"},
+        {"pos": 3, "domain": "us.fitgap.com", "url": "https://us.fitgap.com/search/insurance-software/self?page=2", "page_type": "directory", "note": "also page=1"},
+        {"pos": 5, "domain": "capterra.com", "url": "https://www.capterra.com/p/21759/Incident-Management-System/", "page_type": "directory", "note": "Cloud Claims"},
+        {"pos": 6, "domain": "riskonnect.com", "url": "https://riskonnect.com/claims-administration/considerations-for-your-claims-administration-software/", "page_type": "blog_guide", "note": "RMIS vendor; also en-gb + ?p= variants"},
+        {"pos": 9, "domain": "zoftwarehub.com", "url": "https://zoftwarehub.com/en-sa/products/claimpilot/overview", "page_type": "directory"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Low-competition niche: small vendors (Claimable, Riskonnect, ClaimPilot) and thin directories (FitGap). DICEUS could rank with a dedicated self-insured claims page."
+    },
+    {
+      "query": "health claims management software",
+      "territory": "Claims",
+      "intent": "Mixed: provider-side RCM/medical billing (misaligned with insurer intent)",
+      "results": [
+        {"pos": 1, "domain": "damcogroup.com", "url": "https://www.damcogroup.com/insurance/healthcare-claims-processing-software", "page_type": "agency_service"},
+        {"pos": 2, "domain": "rapidclaims.ai", "url": "https://www.rapidclaims.ai/blogs/healthcare-claims-management-software", "page_type": "blog_guide"},
+        {"pos": 4, "domain": "combinehealth.ai", "url": "https://www.combinehealth.ai/blog/healthcare-claims-management-software", "page_type": "blog_guide"},
+        {"pos": 5, "domain": "clarity-ventures.com", "url": "https://www.clarity-ventures.com/how-to-guides/guide-to-healthcare-claim-management-software", "page_type": "blog_guide"},
+        {"pos": 6, "domain": "g2.com", "url": "https://www.g2.com/products/osp-labs-claim-management-software/competitors/alternatives", "page_type": "directory", "note": "3 G2 pages"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "SERP intent is healthcare-provider revenue cycle, not insurer/payer admin. Low priority for DICEUS; payer-side modifiers ('for health insurers', 'payer') needed."
+    },
+    {
+      "query": "underwriting workbench",
+      "territory": "Underwriting",
+      "intent": "TOFU/MOFU informational ('what is') + vendor",
+      "results": [
+        {"pos": 1, "domain": "hyperexponential.com", "url": "https://www.hyperexponential.com/blog/underwriting-workbench", "page_type": "blog_guide"},
+        {"pos": 2, "domain": "insuremo.com", "url": "https://www.insuremo.com/en/partner-app/underwriting-workbench", "page_type": "directory"},
+        {"pos": 3, "domain": "decerto.com", "url": "https://www.decerto.com/post/what-is-an-underwriting-workbench", "page_type": "blog_guide"},
+        {"pos": 4, "domain": "marketplace.microsoft.com", "url": "https://marketplace.microsoft.com/en-lk/product/capgemini-group.insurance_underwriting_workbench?country=US", "page_type": "directory", "note": "Capgemini listing"},
+        {"pos": 5, "domain": "postonline.co.uk", "url": "https://www.postonline.co.uk/resource/7958561/a-beginners-guide-to-underwriting-workbenches", "page_type": "news_pr"},
+        {"pos": 6, "domain": "capterra.co.uk", "url": "https://www.capterra.co.uk/software/1083157/Underwriting-Workbench", "page_type": "directory", "note": "likely DICEUS listing (INFERENCE)"},
+        {"pos": 7, "domain": "ivans.com", "url": "https://int.ivans.com/blog/posts/what-is-an-underwriting-workbench/", "page_type": "blog_guide", "note": "int. and prod. subdomains both indexed"}
+      ],
+      "diceus_present": "directory_listing (inferred)",
+      "diceus_url": "https://www.capterra.co.uk/software/1083157/Underwriting-Workbench (pos 6, inferred DICEUS)",
+      "observation": "Explainer-led SERP won by hx, Decerto, IVANS blogs. Partner marketplaces (InsureMO, MS Marketplace) rank - DICEUS could list its workbench there. The InsureMO partner-app 'underwriting-workbench' may itself be DICEUS (unverified)."
+    },
+    {
+      "query": "insurance underwriting software",
+      "territory": "Underwriting",
+      "intent": "BOFU vendor product",
+      "results": [
+        {"pos": 1, "domain": "guidewire.com", "url": "https://www.guidewire.com/products/core-products/insurancesuite/underwritingcenter-insurance-underwriting-software", "page_type": "vendor_product", "note": "5 locale .md variants returned"},
+        {"pos": 6, "domain": "fineos.com", "url": "https://www.fineos.com/adminsuite/insurance-underwriting-software/", "page_type": "vendor_product", "note": "also /insurance-quoting-software/"},
+        {"pos": 8, "domain": "revivalportal.goodwood.com", "url": "https://revivalportal.goodwood.com/insurance/insurance-underwriting-software.html", "page_type": "spam_scraper", "note": "parasite spam pages on hacked subdomains (also fadisma.com.br)"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Tier-1 product pages (Guidewire UnderwritingCenter, FINEOS) dominate. Note: Guidewire exposes '.md' versions of product pages (LLM-friendly markdown) that get indexed."
+    },
+    {
+      "query": "life underwriting workbench",
+      "territory": "Underwriting",
+      "intent": "BOFU vendor product (single-vendor dominated)",
+      "results": [
+        {"pos": 1, "domain": "appian.com", "url": "https://appian.com/blog/2023/connected-insurance-life-underwriting-workbench", "page_type": "blog_guide"},
+        {"pos": 2, "domain": "appian.com", "url": "https://appian.com/industries/insurance/solutions/connected-underwriting-life-workbench", "page_type": "vendor_solution"},
+        {"pos": 3, "domain": "community.appian.com", "url": "https://community.appian.com/b/appmarket/posts/appian-connected-underwriting-life-workbench", "page_type": "directory"},
+        {"pos": 4, "domain": "cbinsights.com", "url": "https://www.cbinsights.com/research/report/life-insurance-underwriters-underwriting-workbenches-mvp/", "page_type": "analyst"},
+        {"pos": 5, "domain": "aap.com.au", "url": "https://www.aap.com.au/aapreleases/cision20231025ae47500", "page_type": "news_pr"},
+        {"pos": 6, "domain": "appmarket.appian.com", "url": "https://appmarket.appian.com/listings/appian-connected-underwriting-life-workbench", "page_type": "directory"},
+        {"pos": 7, "domain": "platform.softwareone.com", "url": "https://platform.softwareone.com/product/appian-connected-underwriting-life-workbench/PCP-6782-5377", "page_type": "directory"},
+        {"pos": 9, "domain": "rfp.wiki", "url": "https://www.rfp.wiki/vendors/appian-connected-underwriting-life-workbench", "page_type": "directory"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Appian owns ~8/9 results via product page + blog + marketplaces + PR. Shows that a coined product name + multi-surface distribution can monopolize a long-tail SERP."
+    },
+    {
+      "query": "underwriting platform for MGAs",
+      "territory": "Underwriting",
+      "intent": "BOFU vendor segment pages",
+      "results": [
+        {"pos": 1, "domain": "hyperexponential.com", "url": "https://www.hyperexponential.com/segments/mga", "page_type": "vendor_solution", "note": "also /us/mgas-mgus"},
+        {"pos": 2, "domain": "info.insly.com", "url": "https://info.insly.com/underwriting-software", "page_type": "vendor_solution", "note": "landing page"},
+        {"pos": 4, "domain": "online.vertafore.com", "url": "https://online.vertafore.com/Surefyre-demo.html", "page_type": "vendor_solution", "note": "demo landing"},
+        {"pos": 5, "domain": "businesswire.com", "url": "https://www.businesswire.com/news/home/20230913373693/en", "page_type": "news_pr"},
+        {"pos": 6, "domain": "insurity.com", "url": "https://insurity.com/press-release/insuritys-sure-submission-gateway-purpose-built-managing-delegated-authority-and", "page_type": "news_pr"},
+        {"pos": 8, "domain": "selectsys.com", "url": "https://www.selectsys.com/blog/?p=939", "page_type": "blog_guide"},
+        {"pos": 9, "domain": "optalitix.com", "url": "https://www.optalitix.com/organisations/mgas", "page_type": "vendor_solution"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Every winner has a dedicated '/segments/mga' or '/organisations/mgas' page. Mid-size insurtechs (hx, Insly, Optalitix) compete here - realistic tier for DICEUS."
+    },
+    {
+      "query": "reinsurance software",
+      "territory": "Reinsurance",
+      "intent": "MOFU directory/comparison",
+      "results": [
+        {"pos": 1, "domain": "sourceforge.net", "url": "https://sourceforge.net/software/reinsurance/saas/", "page_type": "directory", "note": "6 SourceForge variants (uk, startup, canada, germany, sql-server, TreatyIQ)"},
+        {"pos": 4, "domain": "sapiens.com", "url": "https://sapiens.com/reinsurance/reinsurancemaster/", "page_type": "vendor_product"},
+        {"pos": 6, "domain": "meon.co.in", "url": "https://meon.co.in/reinsurance-management-software", "page_type": "vendor_product"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "SourceForge category pages saturate; Sapiens the only major vendor. DICEUS could be listed in SourceForge reinsurance category (cheap win)."
+    },
+    {
+      "query": "reinsurance management system",
+      "territory": "Reinsurance",
+      "intent": "MOFU blog/guide + analyst directory",
+      "results": [
+        {"pos": 1, "domain": "msg-global.com", "url": "https://www.msg-global.com/en/blog/reinsurance-management-system-build-or-buy/", "page_type": "blog_guide", "note": "4 locale variants"},
+        {"pos": 5, "domain": "duckcreek.com", "url": "https://www.duckcreek.com/resource/blog/3-signs-a-reinsurance-management-system-needs-modernization/", "page_type": "blog_guide"},
+        {"pos": 6, "domain": "celent.com", "url": "https://www.celent.com/en/directory/companies/insurance-systems-inc/solutions/isi-core---ceded-reinsurance-management-system", "page_type": "analyst"},
+        {"pos": 7, "domain": "cleverence.com", "url": "https://www.cleverence.com/articles/sap-documentation/sap-reinsurance-management-overview-4821/", "page_type": "blog_guide"},
+        {"pos": 8, "domain": "query.prod.cms.rt.microsoft.com", "url": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1p7mq", "page_type": "blog_guide", "note": "PDF"},
+        {"pos": 9, "domain": "softguide.com", "url": "https://www.softguide.com/function/reinsurance-management", "page_type": "directory"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "'Build or buy' guide from msg global (SAP partner) wins; Celent vendor directory ranks - DICEUS should claim a Celent VendorMatch profile."
+    },
+    {
+      "query": "reinsurance accounting software",
+      "territory": "Reinsurance",
+      "intent": "BOFU vendor + directories",
+      "results": [
+        {"pos": 1, "domain": "sapiens.com", "url": "https://sapiens.com/us/reinsurance/", "page_type": "vendor_product"},
+        {"pos": 2, "domain": "celent.com", "url": "https://www.celent.com/solutions/273098510", "page_type": "analyst", "note": "Sapiens ReinsuranceMaster profile; also /en/directory variant"},
+        {"pos": 3, "domain": "getapp.ca", "url": "https://www.getapp.ca/software/2092898/reinsurance-financial-and-data-exchange-platform", "page_type": "directory", "note": "DICEUS listing (FACT per snippet); plus getapp.com.au, capterra.co.za, capterra.in"},
+        {"pos": 4, "domain": "video.sapiens.com", "url": "https://video.sapiens.com/watch/E2dvwjYrMGvEzKAQQ6ocwm", "page_type": "vendor_product", "note": "video"},
+        {"pos": 5, "domain": "sourceforge.net", "url": "https://sourceforge.net/software/reinsurance/integrates-with-sql-server/", "page_type": "directory"}
+      ],
+      "diceus_present": "directory_listing",
+      "diceus_url": "https://www.getapp.ca/software/2092898/reinsurance-financial-and-data-exchange-platform (pos 3; 4 directory URLs in top 9)",
+      "observation": "Sapiens dominates with product page + Celent + video. DICEUS occupies 4 directory slots but its own diceus.com reinsurance page is absent."
+    },
+    {
+      "query": "group insurance administration software",
+      "territory": "Group",
+      "intent": "MOFU directory + BOFU vendor",
+      "results": [
+        {"pos": 1, "domain": "us.fitgap.com", "url": "https://us.fitgap.com/search/insurance-software/group", "page_type": "directory", "note": "4 FitGap variants"},
+        {"pos": 3, "domain": "vitechinc.com", "url": "https://www.vitechinc.com/wp-content/uploads/2024/05/V3locity-CoreAdmin-Insurance.pdf", "page_type": "vendor_product", "note": "PDF"},
+        {"pos": 5, "domain": "salesforce.com", "url": "https://salesforce.com/financial-services/group-benefits-administration-software", "page_type": "vendor_product", "note": "also /in/ /ap/"},
+        {"pos": 6, "domain": "trustradius.com", "url": "https://www.trustradius.com/products/sentro/reviews", "page_type": "directory"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Weak SERP (FitGap thin pages, a PDF) - genuine opportunity for a strong DICEUS group insurance product page. Competitors: FINEOS, Sentro, Vitech, Salesforce."
+    },
+    {
+      "query": "group benefits administration platform insurers",
+      "territory": "Group",
+      "intent": "BOFU vendor (marketplace-heavy)",
+      "results": [
+        {"pos": 1, "domain": "appsource.microsoft.com", "url": "https://appsource.microsoft.com/en-us/product/web-apps/sentro.sentroapp", "page_type": "directory", "note": "Sentro listing; 9 MS Marketplace locale variants"},
+        {"pos": 10, "domain": "fineos.com", "url": "https://www.fineos.com/2022/10/12/press-release-case-study-highlights-proven-data-driven-core-administration-system/", "page_type": "news_pr"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Microsoft AppSource listing for Sentro saturates the proxy SERP - marketplace listings are a strong distribution surface for niche B2B insurance products."
+    },
+    {
+      "query": "broker portal software insurance",
+      "territory": "Distribution",
+      "intent": "BOFU vendor product",
+      "results": [
+        {"pos": 1, "domain": "softr.io", "url": "https://www.softr.io/create/insurance-broker-portal-software", "page_type": "vendor_solution", "note": "no-code builder programmatic page"},
+        {"pos": 2, "domain": "diceus.com", "url": "https://diceus.com/solutions/broker-web-portal", "page_type": "vendor_product"},
+        {"pos": 3, "domain": "diceus.com", "url": "https://diceus.com/insurance/solutions/broker-web-portal/", "page_type": "vendor_product", "note": "DUPLICATE URL of pos 2 - two DICEUS URLs indexed for same product"},
+        {"pos": 4, "domain": "clinked.com", "url": "https://clinked.com/industries/insurance-client-portal", "page_type": "vendor_solution"},
+        {"pos": 5, "domain": "insly.com", "url": "https://insly.com/glossary-insurance-terms/insurance-broker-portal/", "page_type": "blog_guide"},
+        {"pos": 6, "domain": "softwareadvice.com.au", "url": "https://www.softwareadvice.com.au/software/535327/Broker-Web-Portal", "page_type": "directory", "note": "DICEUS listing (inferred); also getapp.co.uk, capterra.co.uk, capterra.ae"}
+      ],
+      "diceus_present": true,
+      "diceus_url": "https://diceus.com/solutions/broker-web-portal (pos 2) + https://diceus.com/insurance/solutions/broker-web-portal/ (pos 3) + 4 directory listings",
+      "observation": "DICEUS's strongest SERP: 2 owned URLs + 4 directory listings = ~6/9 results. But the two owned URLs are duplicates (/solutions/ vs /insurance/solutions/) - canonicalization issue."
+    },
+    {
+      "query": "insurance agency management software",
+      "territory": "Distribution",
+      "intent": "MOFU listicle/guide (agency-side buyers)",
+      "results": [
+        {"pos": 1, "domain": "cleveroad.com", "url": "https://cleveroad.com/blog/insurance-management-software", "page_type": "blog_guide", "note": "dev agency; also AMP variant"},
+        {"pos": 2, "domain": "connecteam.com", "url": "https://connecteam.com/insurance-agency-management-software/", "page_type": "listicle_review", "note": "2 URLs"},
+        {"pos": 5, "domain": "simsonsoftwares.netboard.me", "url": "https://simsonsoftwares.netboard.me/simsonsoftwares/?tab=974025", "page_type": "spam_scraper"},
+        {"pos": 6, "domain": "insurancewebsitebuilder.com", "url": "https://insurancewebsitebuilder.com/!/insurance-agency-management", "page_type": "vendor_solution"},
+        {"pos": 7, "domain": "sourceforge.net", "url": "https://sourceforge.net/software/insurance-agency-management/", "page_type": "directory"},
+        {"pos": 9, "domain": "turborater.com", "url": "https://www.turborater.com/!/insurance-agency-management-software", "page_type": "vendor_solution"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Agency-side SMB buyers (Applied, AMS360, EZLynx in Google). Cleveroad (dev agency) ranks #1 with a selection guide. Low product fit for DICEUS; its /insurance/agency-management/ is a services page."
+    },
+    {
+      "query": "insurance customer portal",
+      "territory": "Distribution",
+      "intent": "BOFU product (directory-saturated in proxy)",
+      "results": [
+        {"pos": 1, "domain": "getapp.com.au", "url": "https://www.getapp.com.au/software/2089935/insurance-customer-portal", "page_type": "directory", "note": "DICEUS listing (inferred); all 9 results are GetApp/Capterra locale variants of the same listing (au, ie, in, uk, nz, ca, il)"}
+      ],
+      "diceus_present": "directory_listing",
+      "diceus_url": "https://www.getapp.com.au/software/2089935/insurance-customer-portal (pos 1-9, all locale variants)",
+      "observation": "Proxy artefact: 9/9 results are the DICEUS Gartner Digital Markets listing in different locales. In real Google, expect consolidation; but it shows Gartner Digital Markets listings are DICEUS's most-surfaced asset."
+    },
+    {
+      "query": "insurance general ledger software",
+      "territory": "Finance",
+      "intent": "BOFU vendor + analyst",
+      "results": [
+        {"pos": 1, "domain": "diceus.com", "url": "https://diceus.com/insurance/solutions/general-ledger-platform/", "page_type": "vendor_product"},
+        {"pos": 2, "domain": "aite-novarica.com", "url": "https://aite-novarica.com/node/19149", "page_type": "analyst"},
+        {"pos": 3, "domain": "capterra.co.uk", "url": "https://capterra.co.uk/directory/32520/general-ledger/software", "page_type": "directory", "note": "generic GL category; 7 locale variants"},
+        {"pos": 4, "domain": "marketplace.guidewire.com", "url": "https://marketplace.guidewire.com/product/general-ledger-reference-implementation-for-insurancesuite/01tPW000007RPmHYAW", "page_type": "directory"}
+      ],
+      "diceus_present": true,
+      "diceus_url": "https://diceus.com/insurance/solutions/general-ledger-platform/ (pos 1)",
+      "observation": "DICEUS #1 on a low-competition niche term. Guidewire Marketplace ranks - listing DICEUS integrations on Guidewire/Duck Creek marketplaces could capture adjacent demand."
+    },
+    {
+      "query": "insurance accounting software",
+      "territory": "Finance",
+      "intent": "MOFU listicle (agency accounting) + vendor",
+      "results": [
+        {"pos": 1, "domain": "accountingseed.com", "url": "https://www.accountingseed.com/customers/insurance", "page_type": "vendor_solution"},
+        {"pos": 3, "domain": "shoeboxed.com", "url": "https://www.shoeboxed.com/blog/insurance-accounting-software/", "page_type": "listicle_review"},
+        {"pos": 4, "domain": "netsuite.co.uk", "url": "https://www.netsuite.co.uk/portal/uk/industries/insurance-accounting.shtml", "page_type": "vendor_solution"},
+        {"pos": 5, "domain": "softwarefinder.com", "url": "https://softwarefinder.com/insurance-accounting", "page_type": "directory"},
+        {"pos": 6, "domain": "netguru.com", "url": "https://www.netguru.com/blog/insurance-agency-accounting-software", "page_type": "listicle_review", "note": "dev agency listicle"},
+        {"pos": 7, "domain": "fisglobal.com", "url": "https://www.fisglobal.com/en-sg/products/fis-insurance-accounting-suite", "page_type": "vendor_product"},
+        {"pos": 8, "domain": "selectsys.com", "url": "https://www.selectsys.com/insurance-accounting-software-comparison", "page_type": "listicle_review", "note": "also /platform/premium-accounting/ product page"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Ambiguous intent (agency bookkeeping vs carrier accounting); ERP/SMB accounting vendors win. Not a priority; GL/IFRS 17/statutory sub-niches fit DICEUS better."
+    },
+    {
+      "query": "statutory accounting software insurance",
+      "territory": "Finance",
+      "intent": "BOFU vendor (US regulatory)",
+      "results": [
+        {"pos": 1, "domain": "platform.softwareone.com", "url": "https://platform.softwareone.com/product/insurance-statutory-reporting/PCP-4492-4283", "page_type": "directory"},
+        {"pos": 2, "domain": "sovos.com", "url": "https://sovos.com/webinars/trr/insurance-statutory-solutions-that-shamrock", "page_type": "blog_guide", "note": "webinar; also /trr/products/statutory-reporting (pos 7)"},
+        {"pos": 3, "domain": "fisglobal.com", "url": "https://www.fisglobal.com/en-au/products/fis-insurance-accounting-suite", "page_type": "vendor_product", "note": "3 locale variants"},
+        {"pos": 8, "domain": "cbinsights.com", "url": "https://www.cbinsights.com/company/gain-compliance/", "page_type": "analyst"},
+        {"pos": 9, "domain": "sapiens.com", "url": "https://sapiens.com/us/financial-and-compliance/statementpro/", "page_type": "vendor_product"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Specialists (Sovos ~70% US share claim, FIS, Sapiens StatementPro) own it. DICEUS can't compete head-on; only via adjacent content (e.g. Schedule F for RRGs/captives)."
+    },
+    {
+      "query": "insurance data warehouse",
+      "territory": "Data",
+      "intent": "BOFU product + MOFU guide",
+      "results": [
+        {"pos": 1, "domain": "diceus.com", "url": "https://diceus.com/solutions/insurance-data-warehouse", "page_type": "vendor_product"},
+        {"pos": 2, "domain": "diceus.com", "url": "https://diceus.com/insurance/solutions/insurance-data-warehouse/", "page_type": "vendor_product", "note": "DUPLICATE of pos 1"},
+        {"pos": 3, "domain": "aspiresys.com", "url": "https://www.aspiresys.com/blog/data-and-ai-solutions/enterprise-data-warehouse/building-a-data-warehouse-and-its-benefits-to-the-insurance-industry/", "page_type": "blog_guide", "note": "also ?p= variant"},
+        {"pos": 4, "domain": "public.dhe.ibm.com", "url": "https://public.dhe.ibm.com/software/data/sw-library/industry-models/brochures/IBM_Insurance_Information_Warehouse_GIMv84.pdf", "page_type": "vendor_product", "note": "PDF"},
+        {"pos": 6, "domain": "capterra.co.uk", "url": "https://www.capterra.co.uk/software/1083155/Insurance-Data-Warehouse", "page_type": "directory", "note": "DICEUS listing (inferred); also getapp.ca, getapp.co.uk"},
+        {"pos": 9, "domain": "datacalculus.com", "url": "https://datacalculus.com/en/blog/industry-associates/data-warehouse-manager/data-warehousing-for-insurance-analytics", "page_type": "blog_guide"}
+      ],
+      "diceus_present": true,
+      "diceus_url": "https://diceus.com/solutions/insurance-data-warehouse (pos 1) + /insurance/solutions/insurance-data-warehouse/ (pos 2) + 3 directory listings",
+      "observation": "DICEUS dominates (~5/9). Again the /solutions/ vs /insurance/solutions/ duplicate pair both indexed."
+    },
+    {
+      "query": "insurance data analytics platform",
+      "territory": "Data",
+      "intent": "BOFU vendor/consultancy",
+      "results": [
+        {"pos": 1, "domain": "deloitte.com", "url": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/services/insuresense-insurance-data-analytics-platform-data-management-services.html", "page_type": "agency_service", "note": "also www2.deloitte.com"},
+        {"pos": 2, "domain": "sourceforge.net", "url": "https://sourceforge.net/software/product/Sapiens-DataSuite/", "page_type": "directory"},
+        {"pos": 3, "domain": "aws.amazon.com", "url": "https://aws.amazon.com/marketplace/pp/prodview-dg73yocwco5cw", "page_type": "directory"},
+        {"pos": 4, "domain": "centricconsulting.com", "url": "https://centricconsulting.com/wp-content/uploads/2024/05/DA-Insurance-Analytics-Platform-IAP-One-Pager.pdf", "page_type": "agency_service"},
+        {"pos": 5, "domain": "xceedance.com", "url": "https://www.xceedance.com/wp-content/uploads/2024/07/Xceedance-Insurance-Data-Platform_2024.pdf", "page_type": "agency_service"},
+        {"pos": 6, "domain": "celent.com", "url": "https://celent.com/vendormatch/discovery/solutions/435524551", "page_type": "analyst"},
+        {"pos": 7, "domain": "platform.softwareone.com", "url": "https://platform.softwareone.com/product/insurity-analytics/PCP-1338-4215", "page_type": "directory"},
+        {"pos": 8, "domain": "illumifin.com", "url": "https://www.illumifin.com/life-health-and-annuity-software/data-analytics-platform/", "page_type": "vendor_product"},
+        {"pos": 10, "domain": "guidewire.com", "url": "https://www.guidewire.com/products/technology/guidewire-data-platform.md", "page_type": "vendor_product"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Consultancies (Deloitte, Centric, Xceedance) + marketplaces (AWS, SoftwareOne) + Celent. Productized-service positioning wins - close to DICEUS's hybrid model."
+    },
+    {
+      "query": "insurance data model",
+      "territory": "Data",
+      "intent": "TOFU informational (Salesforce-specific)",
+      "results": [
+        {"pos": 1, "domain": "trailhead.salesforce.com", "url": "https://trailhead.salesforce.com/content/learn/modules/insurance-for-financial-services-cloud-data-model/get-to-know-the-insurance-data-model", "page_type": "blog_guide", "note": "all 9 results are Trailhead locale variants"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Monopolized by Salesforce Trailhead in proxy. Low commercial value; skip or target 'insurance data warehouse data model' / 'IFRS 17 data model' long-tail."
+    },
+    {
+      "query": "captive insurance software",
+      "territory": "Alternative risk",
+      "intent": "BOFU vendor-selection",
+      "results": [
+        {"pos": 1, "domain": "diceus.com", "url": "https://diceus.com/insurance/solutions/captive-insurance/captive-insurance-software/", "page_type": "vendor_product"},
+        {"pos": 2, "domain": "marsh.com", "url": "https://www.marsh.com/my/services/captive-insurance/products/captive-insurance-technology.html", "page_type": "vendor_solution", "note": "Marsh captive technology; 7 locale variants"},
+        {"pos": 3, "domain": "diceus.com", "url": "https://diceus.com/how-technology-transforms-captive-insurance-management/", "page_type": "blog_guide", "note": "title tag shown as 'captive management software'"}
+      ],
+      "diceus_present": true,
+      "diceus_url": "https://diceus.com/insurance/solutions/captive-insurance/captive-insurance-software/ (pos 1) + blog (pos 3)",
+      "observation": "DICEUS #1 + #3. Main rival in proxy is Marsh (captive manager with in-house tech), not a software vendor. In real Google US also expect Origami Risk, Ventiv, Global Captive Management System, Riskonnect (INFERENCE)."
+    },
+    {
+      "query": "captive management software",
+      "territory": "Alternative risk",
+      "intent": "BOFU + trade press",
+      "results": [
+        {"pos": 1, "domain": "getapp.co.uk", "url": "https://www.getapp.co.uk/software/2093071/captive-management-platform", "page_type": "directory", "note": "DICEUS listing (inferred); also getapp.com.au, capterra.co.uk, capterra.co.za, softwareadvice.co.uk, capterra compare vs Applied Epic"},
+        {"pos": 3, "domain": "captivereview.com", "url": "https://captivereview.com/news/into-the-future/", "page_type": "news_pr", "note": "also ?p=703"},
+        {"pos": 9, "domain": "getapp.ca", "url": "https://www.getapp.ca/software/2093070/captive-owner-portal", "page_type": "directory", "note": "DICEUS Captive Owner Portal listing (inferred)"}
+      ],
+      "diceus_present": "directory_listing",
+      "diceus_url": "GetApp/Capterra/SoftwareAdvice 'Captive Management Platform' listings occupy ~7/9 slots",
+      "observation": "Directory listings dominate; diceus.com own page not in top 9 for this exact variant - suggests DICEUS's captive page is optimized for 'captive insurance software' only. Captive Review (trade press) is the key publisher."
+    },
+    {
+      "query": "captive insurance management system",
+      "territory": "Alternative risk",
+      "intent": "BOFU (captive managers' proprietary systems)",
+      "results": [
+        {"pos": 1, "domain": "marsh.com", "url": "https://www.marsh.com/content/marsh2/europe/tr/en_tr/services/captive-insurance/products/captive-insurance-technology.html", "page_type": "vendor_solution", "note": "6 Marsh locale variants"},
+        {"pos": 3, "domain": "aon.com", "url": "https://www.aon.com/luxembourg/risk/it_services/insurance_management_accounting", "page_type": "vendor_solution", "note": "Aon Globe system"},
+        {"pos": 9, "domain": "origamirisk.co.uk", "url": "https://www.origamirisk.co.uk/?p=17215", "page_type": "vendor_solution", "note": "demo request page"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Brokers/captive managers (Marsh, Aon) and Origami Risk; Global Captive Management System (GCMS) cited in synthesis. DICEUS absent on this close variant - needs explicit 'management system' coverage on captive page/H2s."
+    },
+    {
+      "query": "risk retention group software",
+      "territory": "Alternative risk",
+      "intent": "BOFU (very niche) + news",
+      "results": [
+        {"pos": 1, "domain": "diceus.com", "url": "https://diceus.com/insurance/solutions/risk-retention-group-management-platform/", "page_type": "vendor_product"},
+        {"pos": 2, "domain": "commercialriskonline.com", "url": "https://www.commercialriskonline.com/corporate-round-up-143/", "page_type": "news_pr", "note": "WillisCaptus mention"},
+        {"pos": 3, "domain": "institutionalinvestor.com", "url": "https://www.institutionalinvestor.com/article/2bszqvux485xloobrn4zk/innovation/cirrg-hwcf-hire-ravello-solutions", "page_type": "news_pr", "note": "Ravello Solutions"},
+        {"pos": 4, "domain": "primmer.com", "url": "https://www.primmer.com/practice-area/risk-retention-groups/", "page_type": "other_irrelevant", "note": "law firm"},
+        {"pos": 5, "domain": "foundershield.com", "url": "https://foundershield.com/blog/risk-retention-groups-role", "page_type": "blog_guide"},
+        {"pos": 6, "domain": "roughnotes.com", "url": "https://roughnotes.com/risk-retention-win/", "page_type": "news_pr"},
+        {"pos": 7, "domain": "msoid.qcorp.aa.com", "url": "https://msoid.qcorp.aa.com/insurance/risk-retention-in-insurance.html", "page_type": "spam_scraper", "note": "3 parasite spam results"}
+      ],
+      "diceus_present": true,
+      "diceus_url": "https://diceus.com/insurance/solutions/risk-retention-group-management-platform/ (pos 1)",
+      "observation": "DICEUS is the only dedicated software page; rest is news/law/spam. Near-zero competition = owned niche (low volume, high fit)."
+    },
+    {
+      "query": "alternative risk management software",
+      "territory": "Alternative risk",
+      "intent": "Ambiguous: 'alternative' read as 'alternatives to' ERM/GRC tools",
+      "results": [
+        {"pos": 1, "domain": "diceus.com", "url": "https://diceus.com/insurance/solutions/alternative-risk-platform/", "page_type": "vendor_product"},
+        {"pos": 2, "domain": "g2.com", "url": "https://www.g2.com/products/oracle-risk-management-cloud/competitors/alternatives", "page_type": "directory", "note": "8 G2 'alternatives' pages + getapp alternatives"}
+      ],
+      "diceus_present": true,
+      "diceus_url": "https://diceus.com/insurance/solutions/alternative-risk-platform/ (pos 1)",
+      "observation": "DICEUS #1, but SERP intent is mostly ERM 'alternatives' - the term 'alternative risk' is industry jargon with low searcher alignment. Prefer 'alternative risk transfer software' / 'captive & RRG platform'."
+    },
+    {
+      "query": "self-insurance administration software",
+      "territory": "Alternative risk",
+      "intent": "MOFU directory + vendor blog",
+      "results": [
+        {"pos": 1, "domain": "us.fitgap.com", "url": "https://us.fitgap.com/search/insurance-software/self?page=1", "page_type": "directory", "note": "6 FitGap variants"},
+        {"pos": 2, "domain": "completemarkets.com", "url": "https://completemarkets.com/company/apexdatasystems/Re-Insurance/", "page_type": "directory", "note": "Apex Data Systems"},
+        {"pos": 4, "domain": "riskonnect.com", "url": "https://riskonnect.com/claims-administration/considerations-for-your-claims-administration-software/", "page_type": "blog_guide", "note": "also ?p=, en-gb"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Thin SERP (FitGap AI pages, Riskonnect blog). Strong opportunity for a DICEUS self-insurance/self-insured fund page tied to its Alternative Risk Platform."
+    },
+    {
+      "query": "MGA software",
+      "territory": "Alternative risk",
+      "intent": "BOFU vendor + MOFU 'top list'",
+      "results": [
+        {"pos": 1, "domain": "insly.com", "url": "https://insly.com/mga-insurance-software/", "page_type": "vendor_solution", "note": "also ?p= variant"},
+        {"pos": 3, "domain": "insurity.com", "url": "https://insurity.com/press-release/insuritys-fully-integrated-mga-software-now-powers-five-top-10-mgas-and-improves", "page_type": "news_pr", "note": "also MGAA PR (pos 9)"},
+        {"pos": 4, "domain": "fintechfutures.com", "url": "https://fintechfutures.com/?p=15224340", "page_type": "news_pr"},
+        {"pos": 5, "domain": "celent.com", "url": "https://www.celent.com/en/directory/companies/insillion/solutions/insillion-pay-as-you-grow-mga-pas", "page_type": "analyst"},
+        {"pos": 6, "domain": "insly.com", "url": "https://insly.com/en/blog/top-list-mga-software-providers-in-canada", "page_type": "listicle_review", "note": "self-published vendor listicle; also tag page"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Insly owns 4/9 via segment page + self-published 'top MGA software providers' listicles - a replicable tactic. Insurity uses PR to rank."
+    },
+    {
+      "query": "program administrator software insurance",
+      "territory": "Alternative risk",
+      "intent": "TOFU informational (what is a PA) + jobs; weak commercial",
+      "results": [
+        {"pos": 1, "domain": "insurancebusinessmag.com", "url": "https://insurancebusinessmag.com/us/guides/what-does-a-program-administrator-do-463192.aspx", "page_type": "blog_guide"},
+        {"pos": 2, "domain": "insurancejournal.com", "url": "https://www.insurancejournal.com/magazines/mag-features/2006/07/04/152161.htm", "page_type": "news_pr"},
+        {"pos": 3, "domain": "blog.appulate.com", "url": "https://blog.appulate.com/?p=4160", "page_type": "blog_guide", "note": "also ProgramConnect launch post"},
+        {"pos": 4, "domain": "career.io", "url": "https://career.io/job/program-administrator-mason-inhabit-1fbe9325c7bd4f263ed97e9f72f498ce", "page_type": "other_irrelevant", "note": "job listings x3"},
+        {"pos": 7, "domain": "propertycasualty360.com", "url": "https://propertycasualty360.com/2008/10/22/outpulse-launches-rent-a-pa", "page_type": "news_pr"},
+        {"pos": 8, "domain": "distinguished.com", "url": "https://distinguished.com/distinguished-earns-top-program-administrators-recognition", "page_type": "news_pr"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "No vendor has a strong page - wide open. Old 2006-2008 articles rank. Low-effort win for a 'software for program administrators' page."
+    },
+    {
+      "query": "loss run software",
+      "territory": "Alternative risk",
+      "intent": "BOFU tool (agency/underwriter workflow)",
+      "results": [
+        {"pos": 1, "domain": "blog.appulate.com", "url": "https://blog.appulate.com/what-software-helps-underwriters-analyze-insurance-loss-runs", "page_type": "blog_guide"},
+        {"pos": 2, "domain": "insurancebusinessmag.com", "url": "https://www.insurancebusinessmag.com/us/news/technology/one80-partners-with-insurtech-for-loss-run-software-446671.aspx", "page_type": "news_pr"},
+        {"pos": 3, "domain": "cbinsights.com", "url": "https://www.cbinsights.com/company/loss-run-pro", "page_type": "analyst"},
+        {"pos": 4, "domain": "fintech.global", "url": "https://fintech.global/?p=116418", "page_type": "news_pr"},
+        {"pos": 5, "domain": "lossrunpro.com", "url": "https://lossrunpro.com/", "page_type": "vendor_product", "note": "3 URLs"},
+        {"pos": 9, "domain": "furtherai.com", "url": "https://www.furtherai.com/customers/loss-runs", "page_type": "vendor_solution"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Point-solution insurtechs (Loss Run Pro, Appulate, FurtherAI) - intent is loss-run request/extraction. DICEUS fit only as a module/feature article (loss runs for captive owners)."
+    },
+    {
+      "query": "captive owner portal",
+      "territory": "Alternative risk",
+      "intent": "Misread as Wi-Fi 'captive portal' - no insurance intent",
+      "results": [
+        {"pos": 1, "domain": "patents.justia.com", "url": "https://patents.justia.com/patent/10560853", "page_type": "other_irrelevant"},
+        {"pos": 2, "domain": "appmaster.io", "url": "https://appmaster.io/de/glossary/gefangenes-portal", "page_type": "other_irrelevant"},
+        {"pos": 3, "domain": "purple.ai", "url": "https://www.purple.ai/mr-in/captive-portal", "page_type": "other_irrelevant"},
+        {"pos": 6, "domain": "docs.manage.security.cisco.com", "url": "https://docs.manage.security.cisco.com/cdfmc/g_control-users-captive-portal.html", "page_type": "other_irrelevant"},
+        {"pos": 8, "domain": "ownerrelations.com", "url": "https://www.ownerrelations.com/owner-portal.htm", "page_type": "other_irrelevant"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Keyword collision with networking 'captive portal'. Do not target this phrasing; use 'captive insurance owner portal' / 'captive client portal'."
+    },
+    {
+      "query": "insurance software development company",
+      "territory": "Services",
+      "intent": "Services/agency (commercial investigation)",
+      "results": [
+        {"pos": 1, "domain": "solulab.com", "url": "https://solulab.com/insurance-software-development-company", "page_type": "agency_service"},
+        {"pos": 2, "domain": "innowise.com", "url": "https://innowise.com/finance/insurance/", "page_type": "agency_service"},
+        {"pos": 3, "domain": "spaceo.ca", "url": "https://www.spaceo.ca/insurance-software-development/", "page_type": "agency_service"},
+        {"pos": 5, "domain": "leewayhertz.com", "url": "https://www.leewayhertz.com/insurance-software-development/page/3/?et_blog", "page_type": "agency_service"},
+        {"pos": 6, "domain": "engineerbabu.com", "url": "https://engineerbabu.com/industries/fintech/insurance-software-development", "page_type": "agency_service"},
+        {"pos": 7, "domain": "cmarix.com", "url": "https://www.cmarix.com/insurance.html", "page_type": "agency_service"},
+        {"pos": 8, "domain": "codica.com", "url": "https://codica.com/services/insurance-software-development/", "page_type": "agency_service"},
+        {"pos": 9, "domain": "models.yclas.com", "url": "https://models.yclas.com/otros/insurance-software-development-company.html?amp=1", "page_type": "spam_scraper"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Crowded with generalist outsourcing agencies (Innowise, SoluLab, Space-O, LeewayHertz, CMARIX, Codica). DICEUS absent despite this being its legacy positioning."
+    },
+    {
+      "query": "insurance software development services",
+      "territory": "Services",
+      "intent": "Services/agency",
+      "results": [
+        {"pos": 1, "domain": "spaceo.ca", "url": "https://www.spaceo.ca/insurance-software-development/", "page_type": "agency_service"},
+        {"pos": 2, "domain": "innowise.com", "url": "https://innowise.com/finance/insurance/", "page_type": "agency_service"},
+        {"pos": 3, "domain": "mindinventory.com", "url": "https://www.mindinventory.com/insurance-software-development/", "page_type": "agency_service"},
+        {"pos": 4, "domain": "live.museum.manchester.ac.uk", "url": "https://live.museum.manchester.ac.uk/insurance/insurance-software-development-services.html", "page_type": "spam_scraper", "note": "parasite spam x2 + muycomputerpro"},
+        {"pos": 6, "domain": "8seneca.com", "url": "https://8seneca.com/blog/insurance-software-development", "page_type": "blog_guide", "note": "3 variants"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Same agency set + parasite SEO spam. Services head terms are a red ocean; DICEUS should keep services pages but not make them the SEO growth bet."
+    },
+    {
+      "query": "legacy insurance system modernization",
+      "territory": "Services",
+      "intent": "MOFU thought leadership / services",
+      "results": [
+        {"pos": 1, "domain": "hexaware.com", "url": "https://hexaware.com/blogs/modernizing-legacy-insurance-systems-a-unified-and-phased-approach-to-becoming-truly-digital/", "page_type": "blog_guide", "note": "also whitepaper"},
+        {"pos": 3, "domain": "cleveroad.com", "url": "https://www.cleveroad.com/blog/insurance-legacy-system-transformation/", "page_type": "blog_guide", "note": "also AMP"},
+        {"pos": 5, "domain": "visionet.com", "url": "https://www.visionet.com/blog/legacy-modernization-insurance-visionet-accelerator", "page_type": "blog_guide"},
+        {"pos": 6, "domain": "damcogroup.com", "url": "https://www.damcogroup.com/insurance/?p=2377", "page_type": "agency_service", "note": "2 URLs"},
+        {"pos": 8, "domain": "hicronsoftware.com", "url": "https://hicronsoftware.com/blog/legacy-system-modernization-insurance", "page_type": "blog_guide"},
+        {"pos": 9, "domain": "vrcis.com", "url": "https://www.vrcis.com/blog/modernize-legacy-policy-management-systems/", "page_type": "blog_guide"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "IT services firms (Hexaware, Cleveroad, Visionet, Damco, Hicron) win with long blog guides. Winnable with DICEUS case studies (UNIQA/VIG migrations) but competitive."
+    },
+    {
+      "query": "insurance app development company",
+      "territory": "Services",
+      "intent": "Services/agency + listicles",
+      "results": [
+        {"pos": 1, "domain": "appsierra.com", "url": "https://www.appsierra.com/blog/insurance-software-app-development-company", "page_type": "listicle_review"},
+        {"pos": 2, "domain": "botreetechnologies.com", "url": "https://www.botreetechnologies.com/insurance", "page_type": "agency_service"},
+        {"pos": 3, "domain": "bacancytechnology.com", "url": "https://www.bacancytechnology.com/insurance/app-development", "page_type": "agency_service"},
+        {"pos": 4, "domain": "content-hub.dribbble.com", "url": "https://content-hub.dribbble.com/agencies/insurance-app-development-companies/", "page_type": "listicle_review"},
+        {"pos": 6, "domain": "riseuplabs.com", "url": "https://riseuplabs.com/top-insurance-app-development-companies/", "page_type": "listicle_review"},
+        {"pos": 7, "domain": "lowcode.agency", "url": "https://www.lowcode.agency/blog/best-insurance-app-development-companies", "page_type": "listicle_review"},
+        {"pos": 8, "domain": "xchange.avixa.org", "url": "https://xchange.avixa.org/posts/top-10-insurance-app-development-companies-in-2026", "page_type": "listicle_review"},
+        {"pos": 9, "domain": "75way.com", "url": "https://75way.com/insurance-app-development-company", "page_type": "agency_service"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "'Top N companies' listicles (often self-serving by agencies) dominate; Intellias named inside one. Inclusion in listicles > ranking own page."
+    },
+    {
+      "query": "DICEUS",
+      "territory": "Brand",
+      "intent": "Navigational",
+      "results": [
+        {"pos": 1, "domain": "en.wikipedia.org", "url": "https://en.wikipedia.org/wiki/DICE_(DEA_database)", "page_type": "other_irrelevant"},
+        {"pos": 2, "domain": "dekudeals.com", "url": "https://www.dekudeals.com/items/dicedus", "page_type": "other_irrelevant", "note": "'Dicedus' video game (Jan 2026)"},
+        {"pos": 3, "domain": "nodal.gg", "url": "https://nodal.gg/game/dicedus-4167840", "page_type": "other_irrelevant"},
+        {"pos": 4, "domain": "coincodex.com", "url": "https://coincodex.com/es/convert/usd/mega-dice/1000", "page_type": "other_irrelevant"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Proxy engine treats 'DICEUS' as 'DICE US'/'Dicedus' - diceus.com absent. Almost certainly a proxy artefact (Google would show diceus.com #1), but flags brand-entity weakness: no Wikipedia/Wikidata/Knowledge Panel signals, and a homonym game launched in 2026. Verify manually in Google US."
+    },
+    {
+      "query": "DICEUS insurance software",
+      "territory": "Brand",
+      "intent": "Navigational + brand research",
+      "results": [
+        {"pos": 1, "domain": "bkreader.com", "url": "https://www.bkreader.com/sponsored/how-diceus-software-products-help-insurance-businesses-11977061", "page_type": "news_pr", "note": "sponsored article"},
+        {"pos": 2, "domain": "diceus.com", "url": "https://diceus.com/about/", "page_type": "other_irrelevant", "note": "about page"},
+        {"pos": 3, "domain": "diceus.com", "url": "https://diceus.com/industry/insurance/claims-management", "page_type": "agency_service", "note": "legacy /industry/ URL path still indexed"},
+        {"pos": 4, "domain": "diceus.com", "url": "https://diceus.com/insurance", "page_type": "agency_service"},
+        {"pos": 5, "domain": "trustradius.com", "url": "https://www.trustradius.com/products/diceus/details", "page_type": "directory"},
+        {"pos": 6, "domain": "diceus.com", "url": "https://diceus.com/insurance/agency-management/", "page_type": "agency_service"},
+        {"pos": 7, "domain": "fr.kompass.com", "url": "https://fr.kompass.com/en/c/diceus/ae816471/", "page_type": "directory"},
+        {"pos": 8, "domain": "likeprod.diceus.com", "url": "https://likeprod.diceus.com/insurance/agency-management/", "page_type": "agency_service", "note": "STAGING/PRE-PROD HOST INDEXED - duplicate content / security hygiene issue"},
+        {"pos": 9, "domain": "diceus.com", "url": "https://diceus.com/insurance/portal", "page_type": "agency_service"}
+      ],
+      "diceus_present": true,
+      "diceus_url": "diceus.com/about/ (2), /industry/insurance/claims-management (3), /insurance (4), /insurance/agency-management/ (6), /insurance/portal (9); likeprod.diceus.com (8)",
+      "observation": "Brand+category SERP is owned, but surfaces services pages (development services titles) rather than product pages; a staging host 'likeprod.diceus.com' and legacy '/industry/' URLs are indexed."
+    },
+    {
+      "query": "DICEUS captive",
+      "territory": "Brand",
+      "intent": "Navigational (product)",
+      "results": [
+        {"pos": 1, "domain": "globalnews.ca", "url": "https://globalnews.ca/video/6021803/u-s-takes-custody-of-isis-prisoners-known-as-the-beatles/amp/", "page_type": "other_irrelevant", "note": "all results irrelevant (news about captives/detention, 'Dicedus' game)"}
+      ],
+      "diceus_present": false,
+      "diceus_url": null,
+      "observation": "Proxy failed to resolve the brand entity at all. Likely an artefact, but reinforces weak brand-entity association between 'DICEUS' and 'captive' - needs consistent product naming (e.g. 'DICEUS Captive Platform') across site, directories, PR."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+deck/node_modules/
+deck/png/
+deck/png_ua/
+deck/*.log
+deliverables/_fragments/
+deliverables/video/_tmp/
+*.docx
+~$*
+.DS_Store

@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "prompt": "What are the best captive insurance management software platforms?",
+    "intent_type": "unbranded-category",
+    "brands_named": ["Sapiens", "Origami Risk", "Guidewire", "Sovos", "OneShield", "Majesco", "A1 Tracker", "Insurity", "InsCipher", "Marsh Captive Solutions", "Qualtrics", "OneStream", "Workiva"],
+    "sources_cited": [
+      {"domain": "gitnux.org", "url": "https://gitnux.org/best/captive-insurance-software/", "type": "listicle (AI-generated style ranking)"},
+      {"domain": "softwareadvice.com.au", "url": "https://www.softwareadvice.com.au/software/549129/Captive-Management-Platform", "type": "software directory (Gartner Digital Markets)"},
+      {"domain": "capterra.co.za", "url": "https://www.capterra.co.za/compare/178007/1096952/indio/vs/Captive-Management-Platform", "type": "software directory"},
+      {"domain": "getapp.ie / getapp.com.au / getapp.co.uk / getapp.co.nz", "url": "https://www.getapp.co.uk/software/2093071/captive-management-platform", "type": "software directory"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": true,
+    "diceus_cited_url": null,
+    "notes": "Top-ranked source (gitnux listicle) does NOT include DICEUS (verified by fetch); it lists Sapiens, Origami Risk, Guidewire etc. 8 of 9 results were DICEUS's 'Captive Management Platform' listings on regional Capterra/GetApp/Software Advice sites, but the synthesized answer named the product generically ('Captive Management Platform') without the DICEUS brand. Vendor attribution only visible if the listing is opened (capterra.ca shows vendor 'Diceus', 0 reviews). Product name is generic, so brand is lost in synthesis."
+  },
+  {
+    "id": 2,
+    "prompt": "Which software do captive managers use to manage multiple captives?",
+    "intent_type": "unbranded-category",
+    "brands_named": ["DICEUS", "Boardlogic (Praxonomy)"],
+    "sources_cited": [
+      {"domain": "diceus.com", "url": "https://diceus.com/why-captive-managers-are-moving-away-from-spreadsheets/", "type": "vendor blog"},
+      {"domain": "diceus.com", "url": "https://diceus.com/insurance/solutions/captive-insurance/captive-management-platform/", "type": "vendor product page"},
+      {"domain": "capterra.ca / capterra.in / capterra.co.uk", "url": "https://www.capterra.ca/software/1096952/Captive-Management-Platform", "type": "software directory"},
+      {"domain": "praxonomy.com", "url": "https://www.praxonomy.com/blog/?p=2828", "type": "vendor blog (board portal)"},
+      {"domain": "softwareadvice.com.au", "url": "https://www.softwareadvice.com.au/software/549129/Captive-Management-Platform", "type": "software directory"}
+    ],
+    "diceus_mentioned": true,
+    "diceus_surfaced_in_results": true,
+    "diceus_cited_url": "https://diceus.com/insurance/solutions/captive-insurance/captive-management-platform/",
+    "notes": "Strongest DICEUS result: DICEUS is the first vendor named, and DICEUS's Captive Owner Portal is also named. Driven by a DICEUS blog post matching the long-tail phrasing ('multiple captives') plus product page and directory listings. Not a single independent/analyst source. NB: the cited product page carries <meta name=robots content='noindex, nofollow'> (see Part C)."
+  },
+  {
+    "id": 3,
+    "prompt": "Software for risk retention groups - what are the options?",
+    "intent_type": "unbranded-category",
+    "brands_named": ["DICEUS", "Willis (WillisCaptus)", "Creditsafe", "SAS", "Nitrogen", "MyComplianceOffice", "World-Check"],
+    "sources_cited": [
+      {"domain": "diceus.com", "url": "https://diceus.com/insurance/solutions/risk-retention-group-management-platform/", "type": "vendor product page"},
+      {"domain": "g2.com", "url": "https://www.g2.com/products/risk-and-retention-triggers/competitors/alternatives", "type": "review site (irrelevant match)"},
+      {"domain": "commercialriskonline.com", "url": "https://www.commercialriskonline.com/corporate-round-up-143/", "type": "trade news"},
+      {"domain": "totalcsr.com", "url": "https://totalcsr.com/?p=13036", "type": "blog"}
+    ],
+    "diceus_mentioned": true,
+    "diceus_surfaced_in_results": true,
+    "diceus_cited_url": "https://diceus.com/insurance/solutions/risk-retention-group-management-platform/",
+    "notes": "DICEUS ranked #1 result and first-named vendor, because the niche has almost no competing dedicated content (other results are old news/irrelevant G2 match). A variant query ('RRG policy administration and claims software vendors') also named DICEUS first alongside Insurium, Riskonnect/Ventiv, Guidewire, Direct Claim Solution. The cited RRG page is tagged noindex,nofollow (Part C) - visibility at risk."
+  },
+  {
+    "id": 4,
+    "prompt": "Best policy administration systems for mid-size P&C insurers in the US",
+    "intent_type": "unbranded-category",
+    "brands_named": ["Guidewire (PolicyCenter, InsuranceNow)", "BriteCore"],
+    "sources_cited": [
+      {"domain": "guidewire.com", "url": "https://guidewire.com/about/press-center/press-releases/20230329/guidewire-earns-three-celent-xcelent-awards-and-luminary-distinction-for", "type": "vendor press release citing analyst (Celent)"},
+      {"domain": "g2.com", "url": "https://www.g2.com/products/diamond-policy/competitors/alternatives", "type": "review site"},
+      {"domain": "actuarialpost.co.uk", "url": "https://www.actuarialpost.co.uk/article/us-p--c-insurers-benefit-from-new-policy-admin-systems-2453.htm", "type": "trade news"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "Analyst awards (Celent XCelent) amplified via vendor press releases (7 language copies) dominate. DICEUS absent."
+  },
+  {
+    "id": 5,
+    "prompt": "Policy administration system for an MGA - vendors?",
+    "intent_type": "unbranded-category",
+    "brands_named": ["Vertafore", "Genasys", "Guidewire", "Duck Creek", "Insurity", "Majesco", "Modotech"],
+    "sources_cited": [
+      {"domain": "celent.com", "url": "https://celent.com/vendormatch/types/managing-general-agent-mga-administration-systems", "type": "analyst (VendorMatch directory)"},
+      {"domain": "medium.com", "url": "https://medium.com/@edwardjameshalsey/the-best-mga-platforms-in-2026-five-options-compared-bdec6f743eca", "type": "listicle/blog"},
+      {"domain": "sourceforge.net", "url": "https://sourceforge.net/software/product/Modotech-ISi/", "type": "software directory"},
+      {"domain": "vertafore.com", "url": "https://www.vertafore.com/sites/default/files/documents/MGA%20Systems%20Data%20Sheet.pdf", "type": "vendor datasheet"},
+      {"domain": "us.fitgap.com", "url": "https://us.fitgap.com/products/045262/mga-systems", "type": "software directory"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "Celent VendorMatch listing + a Medium listicle drive inclusion. DICEUS markets its PAS to MGAs but is absent."
+  },
+  {
+    "id": 6,
+    "prompt": "Modern alternatives to Guidewire for small insurers",
+    "intent_type": "unbranded-category",
+    "brands_named": ["Duck Creek", "Sapiens", "Majesco", "Insurity", "OneShield", "EIS", "Socotra", "BriteCore", "HawkSoft", "Origami Risk", "Quicksolver", "Macaw", "Openkoda"],
+    "sources_cited": [
+      {"domain": "dev.to", "url": "https://dev.to/openkoda/top-5-guidewire-alternatives-in-2025-371c", "type": "vendor-authored listicle"},
+      {"domain": "bdemerson.com", "url": "https://www.bdemerson.com/article/guidewire-alternatives", "type": "dev-shop blog/listicle"},
+      {"domain": "g2.com", "url": "https://www.g2.com/products/guidewire-predict/competitors/alternatives", "type": "review site alternatives page"},
+      {"domain": "capterra.in / capterra.com.au", "url": "https://www.capterra.com.au/alternatives/1063376/guidewire-insurancesuite", "type": "software directory alternatives page"},
+      {"domain": "getapp.ca / getapp.co.uk", "url": "https://www.getapp.co.uk/alternatives/91417/guidewire", "type": "software directory alternatives page"},
+      {"domain": "toolradar.com", "url": "https://toolradar.com/alternatives/guidewire", "type": "directory"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "'Alternatives' pages on G2/Capterra/GetApp plus vendor-authored listicles (Openkoda on dev.to, BD Emerson) drive inclusion. Competitors (Openkoda/Stratoflow) seed their own 'Guidewire alternatives' content - a tactic DICEUS does not use."
+  },
+  {
+    "id": 7,
+    "prompt": "Best claims management software for insurance carriers",
+    "intent_type": "unbranded-category",
+    "brands_named": ["Riskonnect", "Guidewire ClaimCenter", "Duck Creek", "Snapsheet", "BriteCore", "CoreLogic"],
+    "sources_cited": [
+      {"domain": "whatfix.com", "url": "https://whatfix.com/blog/claims-management-software/", "type": "listicle (third-party SaaS blog)"},
+      {"domain": "guideflow.com", "url": "https://www.guideflow.com/blog/claims-management-software", "type": "listicle"},
+      {"domain": "geekflare.com", "url": "https://geekflare.com/claims-management-software/", "type": "listicle"},
+      {"domain": "g2.com", "url": "https://www.g2.com/products/sapiens-idit-claims/competitors/alternatives", "type": "review site category"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "Pure listicle + G2 category territory. DICEUS has no G2 product listing with reviews, and is not in these listicles."
+  },
+  {
+    "id": 8,
+    "prompt": "Claims administration software for self-insured organizations",
+    "intent_type": "unbranded-category",
+    "brands_named": ["FINEOS", "ClaimsGateway", "Cloud Claims", "Claimable", "Riskonnect"],
+    "sources_cited": [
+      {"domain": "blog.claimable.com", "url": "https://blog.claimable.com/claims-management-software-for-self-insured-companies/", "type": "vendor blog"},
+      {"domain": "g2.com", "url": "https://g2.com/products/claimsgateway/discuss", "type": "review site"},
+      {"domain": "us.fitgap.com", "url": "https://us.fitgap.com/search/insurance-software/self", "type": "software directory"},
+      {"domain": "riskonnect.com", "url": "https://riskonnect.com/claims-administration/considerations-for-your-claims-administration-software/", "type": "vendor blog"},
+      {"domain": "capterra.com", "url": "https://www.capterra.com/p/21759/Incident-Management-System/", "type": "software directory"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "Vendor blogs answering the exact long-tail question (Claimable, Riskonnect) win citations - same mechanism that won DICEUS prompt #2."
+  },
+  {
+    "id": 9,
+    "prompt": "Underwriting workbench vendors for life and health insurance",
+    "intent_type": "unbranded-category",
+    "brands_named": ["Appian", "Swiss Re (Magnum)", "AdvantageGo", "Artificial Labs", "Cytora", "Federato", "Innoveo", "Insillion", "Insurance Quantified", "Insurity", "IntellectAI", "Kalepa", "Majesco", "Mea", "Mendix", "Send", "iPipeline", "EXL", "Munich Re (ALLFINANZ)"],
+    "sources_cited": [
+      {"domain": "datos-insights.com", "url": "https://datos-insights.com/reports/p-c-underwriting-workbench-overview-and-prominent-providers/", "type": "analyst"},
+      {"domain": "alphafmc.com", "url": "https://alphafmc.com/?p=16702", "type": "consultancy"},
+      {"domain": "aap.com.au", "url": "https://www.aap.com.au/aapreleases/cision20231025ae47500", "type": "press release wire"},
+      {"domain": "rfp.wiki", "url": "https://www.rfp.wiki/vendors/appian-connected-underwriting-life-workbench", "type": "AI-generated comparison directory"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "DICEUS has dedicated pages (underwriting-workbench-for-life-insurance, -for-health-insurance) but they did not surface. Analyst vendor lists (Datos Insights) + press releases + rfp.wiki drive inclusion."
+  },
+  {
+    "id": 10,
+    "prompt": "Reinsurance management software vendors",
+    "intent_type": "unbranded-category",
+    "brands_named": ["AdvantageGo", "Duck Creek", "DXC", "FIS", "InsurIQ", "Policy Administration Solutions", "Prevail", "Prima XL", "Sapiens", "TAI", "TCS", "pasRe.Net", "Guidewire", "Majesco", "StoneRiver"],
+    "sources_cited": [
+      {"domain": "datos-insights.com", "url": "https://datos-insights.com/reports/reinsurance-management/", "type": "analyst"},
+      {"domain": "aite-novarica.com", "url": "https://aite-novarica.com/blogs/jeff-goldberg/overview-reinsurance-management-solutions-marketplace", "type": "analyst blog"},
+      {"domain": "insurance-canada.ca", "url": "https://insurance-canada.ca/2020/07/14/novarica-market-navigator-reinsurance-cession/", "type": "trade news (analyst report coverage)"},
+      {"domain": "sourceforge.net", "url": "https://sourceforge.net/software/product/TreatyIQ/", "type": "software directory"},
+      {"domain": "featuredcustomers.com", "url": "https://www.featuredcustomers.com/software/reinsurance-management-software", "type": "directory"},
+      {"domain": "celent.com", "url": "https://celent.com/vendormatch/types/assumed-reinsurance-management-systems?page=2", "type": "analyst directory"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "Analyst 'Market Navigator'/vendor lists dominate. DICEUS reinsurance platform has a Gartner Peer Insights stub (0 reviews) but did not surface."
+  },
+  {
+    "id": 11,
+    "prompt": "Group insurance administration platform vendors",
+    "intent_type": "unbranded-category",
+    "brands_named": ["Sentro", "Vitech (V3locity)", "Alan", "FINEOS"],
+    "sources_cited": [
+      {"domain": "appsource.microsoft.com", "url": "https://appsource.microsoft.com/en-us/product/web-apps/sentro.sentroapp", "type": "marketplace listing"},
+      {"domain": "insurance-canada.ca", "url": "https://insurance-canada.ca/2022/11/21/humania-selects-sentro-platform-group-administration/", "type": "trade news (customer win)"},
+      {"domain": "coverager.com", "url": "https://coverager.com/partners-life-selects-sentro-for-group-insurance-policy-administration/", "type": "insurtech news (customer win)"},
+      {"domain": "vitechinc.com", "url": "https://www.vitechinc.com/?p=20184", "type": "vendor press release"},
+      {"domain": "us.fitgap.com", "url": "https://us.fitgap.com/search/insurance-software/group", "type": "software directory"},
+      {"domain": "rfp.wiki", "url": "https://www.rfp.wiki/specialty-industries/saas-pc-insurance-core-platforms-north-america/vitech/insurity", "type": "AI-generated comparison directory"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "Small vendor (Sentro) wins via Microsoft AppSource listing + named customer-win news. A replicable pattern for DICEUS (Microsoft partner)."
+  },
+  {
+    "id": 12,
+    "prompt": "Insurance general ledger / accounting software vendors",
+    "intent_type": "unbranded-category",
+    "brands_named": ["FIS", "Microsoft", "Oracle", "SAP", "StoneRiver", "Workday", "Flexi", "Sapiens"],
+    "sources_cited": [
+      {"domain": "aite-novarica.com", "url": "https://aite-novarica.com/node/19149", "type": "analyst"},
+      {"domain": "datos-insights.com", "url": "https://datos-insights.com/?p=7660", "type": "analyst"},
+      {"domain": "guideflow.com", "url": "https://www.guideflow.com/blog/general-ledger-software", "type": "listicle"},
+      {"domain": "capterra.com.au", "url": "https://www.capterra.com.au/directory/32520/general-ledger/software", "type": "software directory"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "Analyst Market Navigator dominates; spam/scraped pages also appear. DICEUS general-ledger-platform page did not surface."
+  },
+  {
+    "id": 13,
+    "prompt": "Insurance data warehouse solution vendors",
+    "intent_type": "unbranded-category",
+    "brands_named": ["AdvantageGo", "Centric Consulting", "Cloverleaf", "Duck Creek", "Guidewire", "Information Builders", "Insurity", "Majesco", "Sapiens", "Zensar", "SNL iPartners", "Hexaware"],
+    "sources_cited": [
+      {"domain": "insurance-canada.ca", "url": "https://insurance-canada.ca/2020/01/29/novarica-vendor-market-insurer-data-warehouses/", "type": "trade news (analyst coverage)"},
+      {"domain": "datos-insights.com", "url": "https://datos-insights.com/?p=13642", "type": "analyst"},
+      {"domain": "celent.com", "url": "https://celent.com/insights/372017034", "type": "analyst"},
+      {"domain": "dig-in.com", "url": "https://www.dig-in.com/news/western-national-selects-snl-ipartners-solution", "type": "trade news (customer win)"},
+      {"domain": "hexaware.com", "url": "https://hexaware.com/case-study/scalable-cloud-based-data-warehouse-for-belgiums-largest-insurer/", "type": "vendor case study"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "Analyst reports + vendor case studies. A services firm (Hexaware) is included via a named case study - a route open to DICEUS."
+  },
+  {
+    "id": 14,
+    "prompt": "Who builds custom insurance software for carriers? (insurance software development companies)",
+    "intent_type": "unbranded-category",
+    "brands_named": ["Guidewire", "RaftLabs", "Duck Creek", "Majesco", "ScienceSoft", "Sapiens", "DataArt", "Itransition", "Relevant Software", "Stratoflow", "Purrweb", "*instinctools", "SoluLab", "Glorium", "Space-O"],
+    "sources_cited": [
+      {"domain": "raftlabs.com", "url": "https://www.raftlabs.com/blog/top-software-development-companies-for-insurance", "type": "self-serving vendor listicle"},
+      {"domain": "purrweb.com", "url": "https://www.purrweb.com/blog/top-insurance-software-development-companies/", "type": "self-serving vendor listicle"},
+      {"domain": "relevant.software", "url": "https://relevant.software/blog/insurance-software-development-companies/", "type": "self-serving vendor listicle"},
+      {"domain": "stratoflow.com", "url": "https://stratoflow.com/best-custom-insurance-software-development-companies/", "type": "self-serving vendor listicle"},
+      {"domain": "instinctools.com", "url": "https://www.instinctools.com/insurance-software-development-services/", "type": "vendor service page"},
+      {"domain": "solulab.com", "url": "https://solulab.com/insurance-software-development-company", "type": "vendor service page"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "Fetched raftlabs, relevant.software, stratoflow lists: none include DICEUS. Every listicle is authored by a competitor dev shop ranking itself first. DICEUS's own core historical category (custom insurance dev) is not won either."
+  },
+  {
+    "id": 15,
+    "prompt": "How do I modernize a legacy policy administration system?",
+    "intent_type": "unbranded-informational",
+    "brands_named": ["TCS", "InsureMO", "Bestow", "Hexaware", "Cleveroad", "Equisoft", "Oliver Wyman", "VRC"],
+    "sources_cited": [
+      {"domain": "tcs.com", "url": "https://www.tcs.com/content/dam/global-tcs/en/pdfs/insights/whitepapers/insurance-policy-administration-system.pdf", "type": "vendor whitepaper"},
+      {"domain": "insuremo.com", "url": "https://insuremo.com/en/whitepaper-core-modernisation-without-replacement", "type": "vendor whitepaper"},
+      {"domain": "bestow.com", "url": "https://www.bestow.com/post/modernizing-life-insurance-policy-administration-the-real-transformation-carriers-cant-afford-to-delay", "type": "vendor blog"},
+      {"domain": "hexaware.com", "url": "https://hexaware.com/blogs/the-future-of-policy-administration-systems-modernizing-insurance-core-platforms/", "type": "vendor blog"},
+      {"domain": "cleveroad.com", "url": "https://www.cleveroad.com/amp/blog/insurance-legacy-system-transformation/", "type": "dev-shop blog"},
+      {"domain": "equisoft.com", "url": "https://www.equisoft.com/insights/insurance/how-one-carrier-successfully-modernized-their-policy-management-software", "type": "vendor case study"},
+      {"domain": "oliverwyman.com", "url": "https://www.oliverwyman.com/our-expertise/insights/2023/aug/fulcrum-modernizing-life-insurance-and-annuity-legacy-systems.html", "type": "consultancy"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "Informational query: vendor thought-leadership (whitepapers, blogs, case studies) is cited. DICEUS does legacy modernization but did not surface."
+  },
+  {
+    "id": 16,
+    "prompt": "What is DICEUS?",
+    "intent_type": "branded",
+    "brands_named": [],
+    "sources_cited": [
+      {"domain": "en.wikipedia.org", "url": "https://en.wikipedia.org/wiki/DICE_(DEA_database)", "type": "encyclopedia (wrong entity)"},
+      {"domain": "en.wikipedia.org", "url": "https://en.wikipedia.org/wiki/Digital_invoice_customs_exchange", "type": "encyclopedia (wrong entity)"},
+      {"domain": "dekudeals.com", "url": "https://www.dekudeals.com/items/dicedus", "type": "wrong entity (game 'Dicedus')"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "ENTITY FAILURE: bare brand query returned DICE acronyms and a game; the answer said DICEUS 'doesn't appear to be widely recognized'. Adding context ('DICEUS insurance software company') fixed it: cites diceus.com/about, TrustRadius, Crunchbase, jobs.dou.ua, bkreader.com (sponsored), and describes DICEUS as 'product-led ... software solutions for insurance, system integration, product engineering', 250 staff, 8 products, clients UNIQA, VIG, Fairfax, WTW. No Wikipedia/Wikidata entity exists to disambiguate."
+  },
+  {
+    "id": 17,
+    "prompt": "DICEUS captive insurance software - is it any good? reviews?",
+    "intent_type": "branded",
+    "brands_named": ["DICEUS"],
+    "sources_cited": [
+      {"domain": "diceus.com", "url": "https://diceus.com/how-technology-transforms-captive-insurance-management/", "type": "vendor blog"},
+      {"domain": "diceus.com", "url": "https://diceus.com/insurance/solutions/captive-insurance/", "type": "vendor page"},
+      {"domain": "getapp.ca / getapp.com.au / getapp.co.nz", "url": "https://www.getapp.ca/software/2093071/captive-management-platform", "type": "software directory"},
+      {"domain": "softwareadvice.com.au", "url": "https://www.softwareadvice.com.au/software/549128/Captive-Owner-Portal", "type": "software directory"},
+      {"domain": "capterra.co.nz / capterra.co.za", "url": "https://www.capterra.co.nz/software/1096952/Captive-Management-Platform", "type": "software directory"}
+    ],
+    "diceus_mentioned": true,
+    "diceus_surfaced_in_results": true,
+    "diceus_cited_url": "https://diceus.com/insurance/solutions/captive-insurance/",
+    "notes": "Answer is feature-description only; 'specific user review counts appear limited'. Directory listings have 0 user reviews (capterra.ca fetch: 'rated ... by 0 users'). Gartner Peer Insights captive product: 'No reviews yet'. No independent review evidence, so an honest assistant cannot say whether it is 'good'. The badge 'Top-rated for Overall Quality' on a 0-review listing is a weak/possibly misleading signal."
+  },
+  {
+    "id": 18,
+    "prompt": "Does DICEUS offer a policy administration system?",
+    "intent_type": "branded",
+    "brands_named": ["DICEUS"],
+    "sources_cited": [
+      {"domain": "softwareadvice.com.au / softwareadvice.co.uk", "url": "https://www.softwareadvice.com.au/software/534593/Policy-Administration-System", "type": "software directory"},
+      {"domain": "gartner.com", "url": "https://www.gartner.com/reviews/product/diceus-policy-administration-system", "type": "Gartner Peer Insights"},
+      {"domain": "getapp.com.au / getapp.co.uk / getapp.co.nz", "url": "https://www.getapp.com.au/software/2089539/policy-administration-system", "type": "software directory"},
+      {"domain": "diceus.com", "url": "https://diceus.com/insurance/policy-administration/", "type": "vendor page"},
+      {"domain": "softwarefinder.com", "url": "https://softwarefinder.com/insurance-software/diceus-policy-administration", "type": "software directory"}
+    ],
+    "diceus_mentioned": true,
+    "diceus_surfaced_in_results": true,
+    "diceus_cited_url": "https://diceus.com/insurance/policy-administration/",
+    "notes": "Yes - answered correctly, mostly from third-party directories rather than diceus.com. Note: the answer quoted 'projects starting at $10,000+ and average development rate $25-$49/hour' as PAS pricing - outsourcing-agency data (Clutch-style) leaking into product framing. The diceus.com URL cited is /insurance/policy-administration/ (service-style page) rather than the product page /insurance/solutions/policy-administration-system/."
+  },
+  {
+    "id": 19,
+    "prompt": "Compare DICEUS vs Origami Risk for captive management",
+    "intent_type": "branded",
+    "brands_named": ["DICEUS", "Origami Risk", "Duck Creek"],
+    "sources_cited": [
+      {"domain": "elevate.origamirisk.com", "url": "https://elevate.origamirisk.com/2026/session/4291408/leveraging-technology-data-to-strengthen-captive-oversight", "type": "vendor event page"},
+      {"domain": "origamirisk.co.uk", "url": "https://www.origamirisk.co.uk/resources/insights/the-real-cost-of-disconnected-systems/", "type": "vendor blog"},
+      {"domain": "diceus.com", "url": "https://diceus.com/why-captive-managers-are-moving-away-from-spreadsheets/", "type": "vendor blog"},
+      {"domain": "diceus.com", "url": "https://diceus.com/media/diceus-attended-risk-n-conference-in-zurich/", "type": "vendor news"},
+      {"domain": "airmic.com", "url": "https://www.airmic.com/node/37483", "type": "industry association"},
+      {"domain": "rfp.wiki", "url": "https://www.rfp.wiki/specialty-industries/saas-pc-insurance-core-platforms-north-america/insurance-claims-management-systems/origami-risk/duck-creek-technologies", "type": "AI comparison directory"},
+      {"domain": "capterra.co.uk", "url": "https://www.capterra.co.uk/software/146388/origami-risk", "type": "software directory"},
+      {"domain": "atlas.verdantix.com", "url": "https://atlas.verdantix.com/origami-risk/origami-risk-platform", "type": "analyst"}
+    ],
+    "diceus_mentioned": true,
+    "diceus_surfaced_in_results": true,
+    "diceus_cited_url": "https://diceus.com/why-captive-managers-are-moving-away-from-spreadsheets/",
+    "notes": "No head-to-head comparison exists anywhere; answer is two parallel descriptions. Origami has analyst (Verdantix), Capterra-with-reviews, rfp.wiki and conference presence; DICEUS is described only from its own blog. Gap: no DICEUS-authored or third-party comparison page."
+  },
+  {
+    "id": 20,
+    "prompt": "Alternative risk management platform for captive managers and fronting carriers",
+    "intent_type": "unbranded-category",
+    "brands_named": ["Luzern Risk", "Ryan Specialty (Ryan Alternative Risk)", "eMaxx", "AXA XL", "AssuredPartners"],
+    "sources_cited": [
+      {"domain": "beinsure.com", "url": "https://beinsure.com/news/luzern-risk-raises-45-mn-for-ai-captive-insurance-platform/", "type": "trade news (funding)"},
+      {"domain": "insurance-edge.net", "url": "https://insurance-edge.net/2026/09/18/luzern-risk-secures-45m-in-series-b-round/", "type": "trade news (funding)"},
+      {"domain": "reinsurancene.ws", "url": "https://www.reinsurancene.ws/luzern-risks-captive-insurance-platform-raises-45m/", "type": "trade news (funding)"},
+      {"domain": "ryanspecialty.com", "url": "https://ryanspecialty.com/alternative-risk/", "type": "vendor/broker page"},
+      {"domain": "businesswire.com", "url": "https://www.businesswire.com/news/home/20210510005580/en", "type": "press release wire"},
+      {"domain": "riskandinsurance.com", "url": "https://riskandinsurance.com/content-how-companies-can-better-manage-risk-as-markets-fluctuate/", "type": "sponsored trade content"},
+      {"domain": "assuredpartners.com", "url": "https://assuredpartners.com/Blogs/captives/2024/Understanding-Fronting-in-Risk-Management-A-Guide-for-Business-Owners", "type": "broker blog"}
+    ],
+    "diceus_mentioned": false,
+    "diceus_surfaced_in_results": false,
+    "diceus_cited_url": null,
+    "notes": "DICEUS has a page literally named 'Alternative Risk Platform' (/insurance/solutions/alternative-risk-platform/, indexable) yet it did not surface; fresh trade news (Luzern Risk $45M Series B, Sept 2026) dominates. Even the branded follow-up 'DICEUS alternative risk platform' answered that DICEUS 'doesn't have a product specifically called an alternative risk platform' - the page is not retrieved. Variant 'fronting carrier program administration software' surfaced VIPR Solutions, FORWARD, FINEOS, PCMI - no DICEUS."
+  }
+]

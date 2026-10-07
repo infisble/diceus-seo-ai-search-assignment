@@ -1,0 +1,21 @@
+0 https://diceus.com/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/'], 'titles': 1}
+50 https://diceus.com/how-to-build-a-mobile-banking-app/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/how-to-build-a-mobile-banking-app/'], 'titles': 1}
+100 https://diceus.com/top-custom-ai-development-companies/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/top-custom-ai-development-companies/'], 'titles': 1}
+150 https://diceus.com/insurance-chatbot-use-cases-and-key-features/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/insurance-chatbot-use-cases-and-key-features/'], 'titles': 1}
+200 https://diceus.com/dedicated-development-team-for-your-advantage/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/dedicated-development-team-for-your-advantage/'], 'titles': 1}
+250 https://diceus.com/services/co-managed-it-services/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/services/co-managed-it-services/'], 'titles': 1}
+300 https://diceus.com/services/python-consulting-services/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/services/python-consulting-services/'], 'titles': 1}
+350 https://diceus.com/industry/logistics/last-mile-delivery/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/industry/logistics/last-mile-delivery/'], 'titles': 1}
+400 https://diceus.com/industry/finance/money-transfers/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/industry/finance/money-transfers/'], 'titles': 1}
+450 https://diceus.com/media/diceus-team-visited-cern/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/media/diceus-team-visited-cern/'], 'titles': 1}
+500 https://diceus.com/media/diceus-attended-insurtech-insights-europe-2026-london/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/media/diceus-attended-insurtech-insights-europe-2026-london/'], 'titles': 1}
+550 https://diceus.com/insurance/solutions/super-app/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/insurance/solutions/super-app/'], 'titles': 1}
+600 https://diceus.com/case-studies/blockchain-voting-app/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/case-studies/blockchain-voting-app/'], 'titles': 1}
+650 https://diceus.com/case-studies/online-car-auction-system/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/case-studies/online-car-auction-system/'], 'titles': 1}
+700 https://diceus.com/case-studies/country/sweden/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/case-studies/country/sweden/'], 'titles': 1}
+750 https://diceus.com/case-studies/expertise/bi-and-reporting/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/case-studies/expertise/bi-and-reporting/'], 'titles': 1}
+800 https://diceus.com/case-studies/page/7/ {'robots': ['max-image-preview:large'], 'canonicals': ['https://diceus.com/case-studies/page/7/'], 'titles': 1}
+noindex pages: 3
+https://diceus.com/insurance/solutions/captive-insurance/captive-management-platform/ ['max-image-preview:large', 'noindex, nofollow']
+https://diceus.com/insurance/solutions/group-insurance-management-platform/health/ ['max-image-preview:large', 'noindex, nofollow']
+https://diceus.com/insurance/solutions/risk-retention-group-management-platform/ ['max-image-preview:large', 'noindex, nofollow']

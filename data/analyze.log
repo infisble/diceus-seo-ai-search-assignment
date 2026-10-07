@@ -1,0 +1,171 @@
+{
+ "crawled": 815,
+ "status_counts": {
+  "200": 814,
+  "301": 1
+ },
+ "sitemap_urls": 709,
+ "sitemap_not_crawled_or_non200": 0,
+ "discovered_not_in_sitemap_200": 105,
+ "page_type_counts": {
+  "blog_post": 219,
+  "case_study": 118,
+  "generic_service": 104,
+  "media_news": 87,
+  "case_filter_archive": 71,
+  "pagination": 53,
+  "industry_service": 49,
+  "expertise_service": 30,
+  "insurance_product": 23,
+  "insurance_service": 18,
+  "company": 6,
+  "industry_vertical_hub": 6,
+  "conversion": 5,
+  "author": 5,
+  "localized_da": 4,
+  "page_other": 4,
+  "legal": 2,
+  "homepage": 1,
+  "blog_archive": 1,
+  "case_hub": 1,
+  "services_hub": 1,
+  "industry_hub": 1,
+  "expertise_hub": 1,
+  "media_hub": 1,
+  "insurance_hub": 1,
+  "insurance_products_hub": 1,
+  "unclassified": 1
+ },
+ "business_layer_counts": {
+  "L4 Content": 219,
+  "L3 Generic services": 136,
+  "Archive/thin": 130,
+  "Proof": 119,
+  "Company news": 88,
+  "Non-insurance verticals": 56,
+  "L1 Products": 23,
+  "L2/L3 Insurance solutions & services": 18,
+  "Corporate": 6,
+  "Conversion": 5,
+  "Localized (DA)": 4,
+  "Other page": 4,
+  "Utility": 2,
+  "L1 Products (hub)": 2,
+  "Brand/Entry": 1,
+  "Unclassified": 1
+ },
+ "insurance_relevant_200": 339,
+ "indexable": 811,
+ "noindex": 3,
+ "canonical_not_self": 0,
+ "dup_titles": 0,
+ "dup_h1": 0,
+ "missing_h1": 0,
+ "multi_h1": 0,
+ "missing_meta_desc": 0,
+ "title_over_60": 135,
+ "thin_under_300w": 74,
+ "near_duplicate_pairs_080": 97,
+ "money_page_overlap_pairs_050": 6,
+ "near_dup_pairs_excl_archives": 0,
+ "orphan_contextual": 19,
+ "orphan_total": 13,
+ "depth_dist": {
+  "0.0": 1,
+  "1.0": 253,
+  "2.0": 335,
+  "3.0": 174,
+  "4.0": 27,
+  "5.0": 8,
+  "6.0": 3,
+  "NaN": 13
+ },
+ "pages_linking_to_redirects": 1,
+ "pages_linking_to_errors": 0,
+ "schema_type_counts": [
+  [
+   "Organization",
+   814
+  ],
+  [
+   "EntryPoint",
+   813
+  ],
+  [
+   "ImageObject",
+   813
+  ],
+  [
+   "SearchAction",
+   813
+  ],
+  [
+   "WebSite",
+   813
+  ],
+  [
+   "BreadcrumbList",
+   811
+  ],
+  [
+   "ListItem",
+   811
+  ],
+  [
+   "ReadAction",
+   680
+  ],
+  [
+   "WebPage",
+   678
+  ],
+  [
+   "Answer",
+   362
+  ],
+  [
+   "FAQPage",
+   362
+  ],
+  [
+   "Question",
+   362
+  ],
+  [
+   "LocalBusiness",
+   238
+  ],
+  [
+   "PostalAddress",
+   238
+  ],
+  [
+   "Person",
+   225
+  ],
+  [
+   "Article",
+   220
+  ],
+  [
+   "CollectionPage",
+   131
+  ],
+  [
+   "CommentAction",
+   81
+  ],
+  [
+   "ProfilePage",
+   3
+  ],
+  [
+   "ContactPoint",
+   1
+  ]
+ ],
+ "product_schema_on_products": 0,
+ "products_total": 23,
+ "median_ttfb_ms": 145.0,
+ "median_html_kb": 292.0
+}

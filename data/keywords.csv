@@ -1,0 +1,700 @@
+query,cluster,territory,business_layer,intent,suggest_hits,seed_territories,noise_flag,search_volume
+alternative risk program,alt_risk_generic,Alternative Risk,Product/Hub,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+alternative risk solutions,alt_risk_generic,Alternative Risk,Product/Hub,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+captive insurance managers association of alberta,captive_concepts,Alternative Risk,Content,MOFU-solution,2,alt_risk,,DATA UNAVAILABLE
+captive insurance solutions,captive_concepts,Alternative Risk,Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive insurance programs,captive_concepts,Alternative Risk,Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive insurance explained,captive_concepts,Alternative Risk,Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive insurance definition,captive_concepts,Alternative Risk,Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+captive bpo companies in india,captive_concepts,Alternative Risk,Content,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+captive insurance manager salary,captive_concepts,Alternative Risk,Content,MOFU-solution,1,alt_risk,noise (jobs/edu/consumer),DATA UNAVAILABLE
+captive insurance investment management,captive_concepts,Alternative Risk,Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive and insurance management solutions,captive_concepts,Alternative Risk,Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive insurance requirements,captive_concepts,Alternative Risk,Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive insurance policy,captive_concepts,Alternative Risk,Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive insurance example,captive_concepts,Alternative Risk,Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+top captive insurance managers,captive_concepts,Alternative Risk,Content,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+what is captive insurance,captive_concepts,Alternative Risk,Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+captive company example,captive_concepts,Alternative Risk,Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+what is a captive asset manager,captive_concepts,Alternative Risk,Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+captive insurance management companies,captive_manager_ops,Alternative Risk,Solution/Content,BOFU-vendor,4,alt_risk,,DATA UNAVAILABLE
+what is captive management in insurance,captive_manager_ops,Alternative Risk,Solution/Content,TOFU-informational,2,alt_risk,,DATA UNAVAILABLE
+captive insurance companies,captive_manager_ops,Alternative Risk,Solution/Content,BOFU-vendor,2,alt_risk,,DATA UNAVAILABLE
+captive manager jobs,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,2,alt_risk,noise (jobs/edu/consumer),DATA UNAVAILABLE
+captive manager of the year,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,2,alt_risk,,DATA UNAVAILABLE
+captive manager companies,captive_manager_ops,Alternative Risk,Solution/Content,BOFU-vendor,2,alt_risk,,DATA UNAVAILABLE
+captive insurance management,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive insurance management group,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive insurance management group llc,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive insurance management jobs,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,noise (jobs/edu/consumer),DATA UNAVAILABLE
+aon captive insurance management,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is captive insurance management,captive_manager_ops,Alternative Risk,Solution/Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+captive manager,captive_manager_ops,Alternative Risk,Solution/Content,Navigational/ambiguous,1,alt_risk,,DATA UNAVAILABLE
+captive manager meaning,captive_manager_ops,Alternative Risk,Solution/Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+captive manager insurance,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive managers in barbados,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive manager salary,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,noise (jobs/edu/consumer),DATA UNAVAILABLE
+captive managers bermuda,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive manager firm,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+captive manager role,captive_manager_ops,Alternative Risk,Solution/Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+top captive managers,captive_manager_ops,Alternative Risk,Solution/Content,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+what is captive manager,captive_manager_ops,Alternative Risk,Solution/Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+what is a captive manager in insurance,captive_manager_ops,Alternative Risk,Solution/Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+what is captive management services,captive_manager_ops,Alternative Risk,Solution/Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+what do captive managers do,captive_manager_ops,Alternative Risk,Solution/Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+captive insurance software,captive_mgmt_software,Alternative Risk,Product,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+loss run software,loss_runs,Alternative Risk,Feature/Content,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+loss run example,loss_runs,Alternative Risk,Feature/Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+loss run report example,loss_runs,Alternative Risk,Feature/Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+what is a loss run request,loss_runs,Alternative Risk,Feature/Content,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+program administrator job description,mga_software,Alternative Risk / Distribution,Product/Solution,MOFU-solution,2,alt_risk,noise (jobs/edu/consumer),DATA UNAVAILABLE
+mga software,mga_software,Alternative Risk / Distribution,Product/Solution,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+mga software solutions,mga_software,Alternative Risk / Distribution,Product/Solution,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+mga software engineering,mga_software,Alternative Risk / Distribution,Product/Solution,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+mga insurance software,mga_software,Alternative Risk / Distribution,Product/Solution,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+mga insurance software pricing,mga_software,Alternative Risk / Distribution,Product/Solution,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+mga productivity software,mga_software,Alternative Risk / Distribution,Product/Solution,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+mga uri ng software,mga_software,Alternative Risk / Distribution,Product/Solution,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+ano ang mga software,mga_software,Alternative Risk / Distribution,Product/Solution,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+mga halimbawa ng software,mga_software,Alternative Risk / Distribution,Product/Solution,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+mga bahagi ng software,mga_software,Alternative Risk / Distribution,Product/Solution,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+what is mga program,mga_software,Alternative Risk / Distribution,Product/Solution,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+what is an mga,mga_software,Alternative Risk / Distribution,Product/Solution,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+what does a program administrator do,mga_software,Alternative Risk / Distribution,Product/Solution,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+what is a program administrator,mga_software,Alternative Risk / Distribution,Product/Solution,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+claims administration software,claims_self_insured,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+claims administrator job description,claims_self_insured,Claims,Product/Solution,MOFU-solution,1,claims,noise (jobs/edu/consumer),DATA UNAVAILABLE
+what is a claims administrator,claims_self_insured,Claims,Product/Solution,TOFU-informational,1,claims,,DATA UNAVAILABLE
+what is claims administration,claims_self_insured,Claims,Product/Solution,TOFU-informational,1,claims,,DATA UNAVAILABLE
+claims management software for small business,claims_software,Claims,Product,MOFU-solution,4,claims,,DATA UNAVAILABLE
+claims management software,claims_software,Claims,Product,MOFU-solution,2,claims,,DATA UNAVAILABLE
+claims management software uk,claims_software,Claims,Product,MOFU-solution,2,claims,,DATA UNAVAILABLE
+claims management software insurance,claims_software,Claims,Product,MOFU-solution,2,claims,,DATA UNAVAILABLE
+claims management software australia,claims_software,Claims,Product,MOFU-solution,2,claims,,DATA UNAVAILABLE
+claims management software examples,claims_software,Claims,Product,MOFU-solution,2,claims,,DATA UNAVAILABLE
+claims processing software,claims_software,Claims,Product,MOFU-solution,2,claims,,DATA UNAVAILABLE
+what is claims management,claims_software,Claims,Product,TOFU-informational,2,claims,,DATA UNAVAILABLE
+best claims management software,claims_software,Claims,Product,BOFU-vendor,2,claims,,DATA UNAVAILABLE
+what is claims management software,claims_software,Claims,Product,MOFU-solution,2,claims,,DATA UNAVAILABLE
+claims management software free,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+claim management software open source,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+software for claims management,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+what is claims management system,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+what is a claims management company,claims_software,Claims,Product,TOFU-informational,1,claims,,DATA UNAVAILABLE
+insurance claims software,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+insurance claims software systems,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+insurance claims management software,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+insurance claims processing software,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+insurance claims adjuster software,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+ai insurance claims software,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+insurance claims tracking software,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+insurance claims automation software,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+auto insurance claims software,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+best insurance claims software,claims_software,Claims,Product,BOFU-vendor,1,claims,,DATA UNAVAILABLE
+best insurance claims management software,claims_software,Claims,Product,BOFU-vendor,1,claims,,DATA UNAVAILABLE
+which insurance companies are best at paying claims,claims_software,Claims,Product,BOFU-vendor,1,claims,,DATA UNAVAILABLE
+best insurance companies for claims satisfaction,claims_software,Claims,Product,BOFU-vendor,1,claims,,DATA UNAVAILABLE
+claims processing software market,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+claim choice administrators claims address,claims_software,Claims,Product,MOFU-solution,1,claims,,DATA UNAVAILABLE
+claims management companies,claims_software,Claims,Product,BOFU-vendor,1,claims,,DATA UNAVAILABLE
+best medical claims processing software,health_claims,Claims,Product/Solution,BOFU-vendor,3,claims,,DATA UNAVAILABLE
+claims processing software healthcare,health_claims,Claims,Product/Solution,MOFU-solution,2,claims,,DATA UNAVAILABLE
+healthcare claims management software,health_claims,Claims,Product/Solution,MOFU-solution,2,claims,,DATA UNAVAILABLE
+medical claims management companies,health_claims,Claims,Product/Solution,BOFU-vendor,2,claims,,DATA UNAVAILABLE
+health insurance claims software,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+health claims management,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+health claims management system,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+healthcare claims management,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+healthcare claims management indianapolis,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+healthcare claims management careers,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,noise (jobs/edu/consumer),DATA UNAVAILABLE
+healthcare claims management market,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+healthcare claims management jobs,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,noise (jobs/edu/consumer),DATA UNAVAILABLE
+healthcare claims management inc,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+healthcare claims management system,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+medical claims processing for beginners,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+healthcare claims management indianapolis in,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+types of health claims,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+healthcare claims processing companies,health_claims,Claims,Product/Solution,BOFU-vendor,1,claims,,DATA UNAVAILABLE
+medical claims processing companies,health_claims,Claims,Product/Solution,BOFU-vendor,1,claims,,DATA UNAVAILABLE
+modern healthcare claims management company,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+health claims examples,health_claims,Claims,Product/Solution,TOFU-informational,1,claims,,DATA UNAVAILABLE
+medical claims management software,health_claims,Claims,Product/Solution,MOFU-solution,1,claims,,DATA UNAVAILABLE
+insurance software companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,6,core;finance;services,,DATA UNAVAILABLE
+p&c insurance software companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,5,core,,DATA UNAVAILABLE
+insurance software companies in india,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,4,core;services,,DATA UNAVAILABLE
+what is insurtech,core_systems_generic,Core / Platform,Hub/Content,TOFU-informational,4,core,,DATA UNAVAILABLE
+top p&c insurance software companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,4,core,,DATA UNAVAILABLE
+what is p&c insurance,core_systems_generic,Core / Platform,Hub/Content,TOFU-informational,4,core,,DATA UNAVAILABLE
+top insurance software companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,3,claims;finance;services,,DATA UNAVAILABLE
+what is commercial p&c insurance,core_systems_generic,Core / Platform,Hub/Content,TOFU-informational,3,core,,DATA UNAVAILABLE
+insurance software open source,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,2,claims;core,,DATA UNAVAILABLE
+insurance core system providers,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,2,core,,DATA UNAVAILABLE
+top core insurance systems,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,2,core,,DATA UNAVAILABLE
+insurance software for agents,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,2,core,,DATA UNAVAILABLE
+insurance software companies in usa,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,2,core,,DATA UNAVAILABLE
+insurance software companies in bangalore,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,2,core,,DATA UNAVAILABLE
+what is p&c insurance software,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,2,core,,DATA UNAVAILABLE
+top.insurtech platforms,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,2,core,,DATA UNAVAILABLE
+p&c insurance software market,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,2,core,,DATA UNAVAILABLE
+best p&c insurance software,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,2,core,,DATA UNAVAILABLE
+p&c insurance software solutions,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,2,core,,DATA UNAVAILABLE
+insurance software engineering jobs,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,2,services,noise (jobs/edu/consumer),DATA UNAVAILABLE
+insurance core systems,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance core systems gartner,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+core insurance system architecture,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+life insurance core systems,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+tugu insurance core system,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+cis core insurance system,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+core system for insurance,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is core insurance system,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is core insurance,core_systems_generic,Core / Platform,Hub/Content,TOFU-informational,1,core,,DATA UNAVAILABLE
+what is core medical insurance,core_systems_generic,Core / Platform,Hub/Content,TOFU-informational,1,core,,DATA UNAVAILABLE
+what is core health insurance,core_systems_generic,Core / Platform,Hub/Content,TOFU-informational,1,core,,DATA UNAVAILABLE
+insurance software,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance software engineer,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance software engineer jobs,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,noise (jobs/edu/consumer),DATA UNAVAILABLE
+insurance software platforms,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance software jobs,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,noise (jobs/edu/consumer),DATA UNAVAILABLE
+insurance software solutions,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance software systems,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance software and bps,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+best insurance software,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+best insurance software companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+top insurance software,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+top insurance software platforms,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+top insurance software companies in india,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+top insurance software companies in usa,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+top insurance software products,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurance software vendors,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurance software providers,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurance software providers uk,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+what is insurance software,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is ti insurance software llc,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is epic insurance software,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance software pricing,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+epic insurance software cost,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurtech platforms,core_systems_generic,Core / Platform,Hub/Content,Navigational/ambiguous,1,core,,DATA UNAVAILABLE
+insurtech platforms in india,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+counterpart insurtech platform,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurtech digital insurance platform,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+platforma insuretech,core_systems_generic,Core / Platform,Hub/Content,Navigational/ambiguous,1,core,,DATA UNAVAILABLE
+insurance platform for agents,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+best insurance platform in india,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+best insurance platform,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+top 50 insurtech companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+top 10 insurtech companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurance platform companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+what are insurtech companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+biggest insurtech companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+what is insurtech platform,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is insurance platform,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is digital insurance platform,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is insurtech company,core_systems_generic,Core / Platform,Hub/Content,TOFU-informational,1,core,,DATA UNAVAILABLE
+p&c insurance software,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+p&c insurance solutions,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+top 5 p&c insurance companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+top 10 p&c insurance companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+top 20 p&c insurance companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+top p&c insurance companies,core_systems_generic,Core / Platform,Hub/Content,BOFU-vendor,1,core,,DATA UNAVAILABLE
+what is p&c,core_systems_generic,Core / Platform,Hub/Content,TOFU-informational,1,core,,DATA UNAVAILABLE
+what is p&c coverage,core_systems_generic,Core / Platform,Hub/Content,TOFU-informational,1,core,,DATA UNAVAILABLE
+insurance software tester,core_systems_generic,Core / Platform,Hub/Content,MOFU-solution,1,services,,DATA UNAVAILABLE
+what is insurance analytics,insurance_analytics,Data & Analytics,Solution/Content,TOFU-informational,4,data,,DATA UNAVAILABLE
+insurance data analytics companies,insurance_analytics,Data & Analytics,Solution/Content,BOFU-vendor,3,data,,DATA UNAVAILABLE
+insurance coverage for data centers,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,2,data,,DATA UNAVAILABLE
+insurance data analytics jobs,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,2,data,noise (jobs/edu/consumer),DATA UNAVAILABLE
+insurance data and analytics,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,2,data,,DATA UNAVAILABLE
+insurance data analytics,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,,DATA UNAVAILABLE
+insurance data analytics courses,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,,DATA UNAVAILABLE
+insurance data analytics certification,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,noise (jobs/edu/consumer),DATA UNAVAILABLE
+insurance data analytics project,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,,DATA UNAVAILABLE
+insurance predictive analytics,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,,DATA UNAVAILABLE
+insurance data analyst,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,,DATA UNAVAILABLE
+insurance data analyst jobs,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,noise (jobs/edu/consumer),DATA UNAVAILABLE
+insurance data science conference,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,,DATA UNAVAILABLE
+data analytics for insurance courses,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,,DATA UNAVAILABLE
+data analytics for insurance companies,insurance_analytics,Data & Analytics,Solution/Content,BOFU-vendor,1,data,,DATA UNAVAILABLE
+data analytics for non life insurance pricing,insurance_analytics,Data & Analytics,Solution/Content,BOFU-vendor,1,data,,DATA UNAVAILABLE
+data analytics for non life insurance,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,,DATA UNAVAILABLE
+health insurance data analytics jobs,insurance_analytics,Data & Analytics,Solution/Content,MOFU-solution,1,data,noise (jobs/edu/consumer),DATA UNAVAILABLE
+what is data analytics in insurance,insurance_analytics,Data & Analytics,Solution/Content,TOFU-informational,1,data,,DATA UNAVAILABLE
+premium data vs regular data,insurance_analytics,Data & Analytics,Solution/Content,BOFU-vendor,1,data,,DATA UNAVAILABLE
+data warehouse insurance,insurance_dwh,Data & Analytics,Product,MOFU-solution,1,data,,DATA UNAVAILABLE
+insurance data warehouse model,insurance_dwh,Data & Analytics,Product,MOFU-solution,1,data,,DATA UNAVAILABLE
+health insurance data warehouse,insurance_dwh,Data & Analytics,Product,MOFU-solution,1,data,,DATA UNAVAILABLE
+data warehouse for insurance company,insurance_dwh,Data & Analytics,Product,MOFU-solution,1,data,,DATA UNAVAILABLE
+what is data warehouse with example,insurance_dwh,Data & Analytics,Product,TOFU-informational,1,data,,DATA UNAVAILABLE
+insurance data platform,insurance_dwh,Data & Analytics,Product,MOFU-solution,1,data,,DATA UNAVAILABLE
+what is the best insurance agency management system,broker_portal,Distribution,Product,BOFU-vendor,4,core;policy_admin,,DATA UNAVAILABLE
+what is a broker portal,broker_portal,Distribution,Product,TOFU-informational,3,distribution,,DATA UNAVAILABLE
+best accounting software for insurance agency,broker_portal,Distribution,Product,BOFU-vendor,2,finance,,DATA UNAVAILABLE
+best accounting software for insurance brokers,broker_portal,Distribution,Product,BOFU-vendor,2,finance,,DATA UNAVAILABLE
+best insurance agency management software,broker_portal,Distribution,Product,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+broker portal,broker_portal,Distribution,Product,Navigational/ambiguous,1,distribution,,DATA UNAVAILABLE
+broker portal anthem,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+broker portal login,broker_portal,Distribution,Product,MOFU-solution,1,distribution,noise (jobs/edu/consumer),DATA UNAVAILABLE
+broker portal anthem sign in,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+broker portal.anthem.com,broker_portal,Distribution,Product,Navigational/ambiguous,1,distribution,,DATA UNAVAILABLE
+broker portal alignment,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+broker portal devoted,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+broker portal blue shield,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+broker portal uhc,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+broker portal aetna,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+broker portal for anthem,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+agent portal for humana,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+agent portal for lic,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+agent portal for wellcare,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+agent portal for liberty mutual,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+vsp broker portal,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+broker vs platform,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+difference between a broker and a trading platform,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+best agent portal for flight booking,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+best agent portal,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+best broker site,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+best broker login,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,noise (jobs/edu/consumer),DATA UNAVAILABLE
+best broker site reddit,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,noise (jobs/edu/consumer),DATA UNAVAILABLE
+best broker site for trading,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+best life broker portal,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+what is the best broker account,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+which online broker is the best,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+broker portal software,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+vendor vs broker,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+what is broker portal,broker_portal,Distribution,Product,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+what is agent portal,broker_portal,Distribution,Product,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+what is broker website,broker_portal,Distribution,Product,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+what is broker site,broker_portal,Distribution,Product,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+what is broker login,broker_portal,Distribution,Product,TOFU-informational,1,distribution,noise (jobs/edu/consumer),DATA UNAVAILABLE
+what is tax agent portal,broker_portal,Distribution,Product,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+what is a registered broker,broker_portal,Distribution,Product,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+insurance agent portal,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+insurance agent portal login,broker_portal,Distribution,Product,MOFU-solution,1,distribution,noise (jobs/edu/consumer),DATA UNAVAILABLE
+insurance broker portal,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+national insurance agent portal,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+pioneer insurance agent portal,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+best doctors insurance agent portal,broker_portal,Distribution,Product,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+insurance agent portal software,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+insurance broker portal software,broker_portal,Distribution,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+insurance agency accounting software,broker_portal,Distribution,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+insurance broker accounting software,broker_portal,Distribution,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+accounting software for insurance agency,broker_portal,Distribution,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+accounting software for insurance brokers,broker_portal,Distribution,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+software for insurance agency,broker_portal,Distribution,Product,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance customer portal,customer_portal,Distribution / CX,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+acorn insurance customer portal,customer_portal,Distribution / CX,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+carrot insurance customer portal,customer_portal,Distribution / CX,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+genikes insurance customer portal,customer_portal,Distribution / CX,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+mercury insurance customer portal,customer_portal,Distribution / CX,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+income insurance customer portal,customer_portal,Distribution / CX,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+redclick insurance customer portal,customer_portal,Distribution / CX,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+national insurance customer portal,customer_portal,Distribution / CX,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+foremost insurance customer portal,customer_portal,Distribution / CX,Product,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+how to register on lic customer portal,customer_portal,Distribution / CX,Product,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+how to pay lic premium online through customer portal,customer_portal,Distribution / CX,Product,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+accounting software for insurance companies,insurance_gl,Finance / GL,Product,BOFU-vendor,4,finance,,DATA UNAVAILABLE
+best accounting software for insurance companies,insurance_gl,Finance / GL,Product,BOFU-vendor,3,finance,,DATA UNAVAILABLE
+what is in the general ledger,insurance_gl,Finance / GL,Product,TOFU-informational,2,finance,,DATA UNAVAILABLE
+best insurance accounting software,insurance_gl,Finance / GL,Product,BOFU-vendor,2,finance,,DATA UNAVAILABLE
+best accounting software for insurance agents,insurance_gl,Finance / GL,Product,BOFU-vendor,2,finance,,DATA UNAVAILABLE
+accounting vs insurance,insurance_gl,Finance / GL,Product,BOFU-vendor,1,reinsurance,,DATA UNAVAILABLE
+insurance general ledger,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+insurance general ledger account,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+prepaid insurance - general ledger,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+general insurance accounting,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+general insurance accounting pdf,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,noise (jobs/edu/consumer),DATA UNAVAILABLE
+general ledger for insurance,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+what should be included in a general ledger,insurance_gl,Finance / GL,Product,TOFU-informational,1,finance,,DATA UNAVAILABLE
+what goes in the general ledger,insurance_gl,Finance / GL,Product,TOFU-informational,1,finance,,DATA UNAVAILABLE
+what is a general ledger,insurance_gl,Finance / GL,Product,TOFU-informational,1,finance,,DATA UNAVAILABLE
+what is general ledger in insurance,insurance_gl,Finance / GL,Product,TOFU-informational,1,finance,,DATA UNAVAILABLE
+insurance accounting software,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+insurance accounting system,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+insurance investment accounting software,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+what is insurance in accounting,insurance_gl,Finance / GL,Product,TOFU-informational,1,finance,,DATA UNAVAILABLE
+is insurance an expense in accounting,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+accounting software for insurance agents,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+accounting software for insurance,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+how much does an accounting software cost,insurance_gl,Finance / GL,Product,BOFU-vendor,1,finance,,DATA UNAVAILABLE
+is quickbooks the best accounting software,insurance_gl,Finance / GL,Product,BOFU-vendor,1,finance,,DATA UNAVAILABLE
+largest accounting software companies,insurance_gl,Finance / GL,Product,BOFU-vendor,1,finance,,DATA UNAVAILABLE
+statutory accounting software,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+stat accounting software,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+statutory reporting software,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+statutory reporting software australia,insurance_gl,Finance / GL,Product,MOFU-solution,1,finance,,DATA UNAVAILABLE
+statutory accounting vs gaap,insurance_gl,Finance / GL,Product,BOFU-vendor,1,finance,,DATA UNAVAILABLE
+statutory accounts vs financial statements,insurance_gl,Finance / GL,Product,BOFU-vendor,1,finance,,DATA UNAVAILABLE
+what is statutory reporting in accounting,insurance_gl,Finance / GL,Product,TOFU-informational,1,finance,,DATA UNAVAILABLE
+group insurance software for ap employees,group_benefits_admin,Group Insurance,Product,MOFU-solution,2,group,,DATA UNAVAILABLE
+group life insurance application form,group_benefits_admin,Group Insurance,Product,MOFU-solution,2,group,,DATA UNAVAILABLE
+medical benefits management companies,group_benefits_admin,Group Insurance,Product,BOFU-vendor,1,claims,,DATA UNAVAILABLE
+group insurance software telangana,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+group insurance software,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+group insurance solutions,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+group insurance solutions inc,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+group asia insurance software,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+group insurance scheme software download,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+group insurance scheme software,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+eis group insurance software,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+group insurance application form,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+group insurance scheme application form,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+hub24 group insurance application form,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+mindef group insurance application form,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+what is group insurance,group_benefits_admin,Group Insurance,Product,TOFU-informational,1,group,,DATA UNAVAILABLE
+group insurance example,group_benefits_admin,Group Insurance,Product,TOFU-informational,1,group,,DATA UNAVAILABLE
+group insurance requirements,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+employee benefits administration software,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+group benefits administration system,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+group insurance administration system,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+employee benefits administration system,group_benefits_admin,Group Insurance,Product,MOFU-solution,1,group,,DATA UNAVAILABLE
+administrators group vs domain admins,group_benefits_admin,Group Insurance,Product,BOFU-vendor,1,group,,DATA UNAVAILABLE
+group life insurance example,group_benefits_admin,Group Insurance,Product,TOFU-informational,1,group,,DATA UNAVAILABLE
+what is group life insurance,group_benefits_admin,Group Insurance,Product,TOFU-informational,1,group,,DATA UNAVAILABLE
+what is public administration system,off_topic,Off-topic,-,MOFU-solution,2,policy_admin,,DATA UNAVAILABLE
+open source requirements management software,off_topic,Off-topic,-,MOFU-solution,2,policy_admin,,DATA UNAVAILABLE
+what is insurance management services,off_topic,Off-topic,-,TOFU-informational,2,policy_admin,,DATA UNAVAILABLE
+what is the best insurance provider,off_topic,Off-topic,-,BOFU-vendor,2,distribution;policy_admin,,DATA UNAVAILABLE
+what is vendor insurance,off_topic,Off-topic,-,BOFU-vendor,2,distribution;reinsurance,,DATA UNAVAILABLE
+general insurance ledger in tally,off_topic,Off-topic,-,MOFU-solution,2,finance,,DATA UNAVAILABLE
+risk management software open source,off_topic,Off-topic,-,MOFU-solution,2,alt_risk,,DATA UNAVAILABLE
+risk management software for trading,off_topic,Off-topic,-,MOFU-solution,2,alt_risk,,DATA UNAVAILABLE
+risk management software for banks,off_topic,Off-topic,-,MOFU-solution,2,alt_risk,,DATA UNAVAILABLE
+risk management software companies,off_topic,Off-topic,-,BOFU-vendor,2,alt_risk,,DATA UNAVAILABLE
+risk management software vendors,off_topic,Off-topic,-,BOFU-vendor,2,alt_risk,,DATA UNAVAILABLE
+program management software for nonprofits,off_topic,Off-topic,-,MOFU-solution,2,alt_risk,,DATA UNAVAILABLE
+software insurance companies use,off_topic,Off-topic,-,BOFU-vendor,2,core,,DATA UNAVAILABLE
+insurance companies software engineer,off_topic,Off-topic,-,BOFU-vendor,2,core,,DATA UNAVAILABLE
+insurance companies software engineer jobs,off_topic,Off-topic,-,BOFU-vendor,2,core,noise (jobs/edu/consumer),DATA UNAVAILABLE
+what are soft costs in insurance,off_topic,Off-topic,-,TOFU-informational,2,core;services,,DATA UNAVAILABLE
+public administration system in ghana,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+public administration system in india,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+what is public administration and political system,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+what is public administration and economic system,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+business rules management system open source,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+open source software policy,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+public administration software,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy expert admin fee,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+which insurance is best for home and auto,off_topic,Off-topic,-,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+what is the best car insurance provider,off_topic,Off-topic,-,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+what is policy management in insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+pass insuranceexamqueen com,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+pass insurance exam,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,noise (jobs/edu/consumer),DATA UNAVAILABLE
+pass insurance exam queen,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,noise (jobs/edu/consumer),DATA UNAVAILABLE
+pass insurance queen,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+what is pae insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+difference between personal accident insurance and medical insurance,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+pass plus insurance companies,off_topic,Off-topic,-,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+pa insurance companies,off_topic,Off-topic,-,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+what is pass insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+what is pass through insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+what is ski pass insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+what is one pass insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+what is pass plus insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+what is monarch pass insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+what is season pass insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+what is pass through fdic insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+what is pass through deposit insurance,off_topic,Off-topic,-,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+ikon pass insurance cost,off_topic,Off-topic,-,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+pa insurance rates,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+pa insurance policy,off_topic,Off-topic,-,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+what is expense management software,off_topic,Off-topic,-,MOFU-solution,1,claims,,DATA UNAVAILABLE
+which is the best document management software,off_topic,Off-topic,-,BOFU-vendor,1,claims,,DATA UNAVAILABLE
+management software open source,off_topic,Off-topic,-,MOFU-solution,1,claims,,DATA UNAVAILABLE
+what software do insurance adjusters use,off_topic,Off-topic,-,MOFU-solution,1,claims,,DATA UNAVAILABLE
+what is an open source software with examples,off_topic,Off-topic,-,MOFU-solution,1,claims,,DATA UNAVAILABLE
+healthcare vendors list,off_topic,Off-topic,-,BOFU-vendor,1,claims,,DATA UNAVAILABLE
+insurance company software,off_topic,Off-topic,-,MOFU-solution,1,group,,DATA UNAVAILABLE
+vendor portal examples,off_topic,Off-topic,-,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+insurance agent login,off_topic,Off-topic,-,MOFU-solution,1,distribution,noise (jobs/edu/consumer),DATA UNAVAILABLE
+insurance agent website,off_topic,Off-topic,-,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+insurance agent website examples,off_topic,Off-topic,-,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+insurance agent website template,off_topic,Off-topic,-,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+insurance agent login florida,off_topic,Off-topic,-,MOFU-solution,1,distribution,noise (jobs/edu/consumer),DATA UNAVAILABLE
+national insurance portal for agent,off_topic,Off-topic,-,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+how to register for insurance agent exam,off_topic,Off-topic,-,MOFU-solution,1,distribution,noise (jobs/edu/consumer),DATA UNAVAILABLE
+how to register as insurance agent,off_topic,Off-topic,-,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+how to get insurance agent license,off_topic,Off-topic,-,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+best insurance agent website,off_topic,Off-topic,-,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+pets best insurance agent login,off_topic,Off-topic,-,BOFU-vendor,1,distribution,noise (jobs/edu/consumer),DATA UNAVAILABLE
+how to be the best insurance agent,off_topic,Off-topic,-,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+how to be a good insurance agent,off_topic,Off-topic,-,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+how to become an insurance agent from home,off_topic,Off-topic,-,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+how to become a vendor for insurance companies,off_topic,Off-topic,-,BOFU-vendor,1,distribution,,DATA UNAVAILABLE
+insurance company portal,off_topic,Off-topic,-,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+insurance client portal,off_topic,Off-topic,-,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+what is an insurance portal,off_topic,Off-topic,-,TOFU-informational,1,distribution,,DATA UNAVAILABLE
+lic portal support email id,off_topic,Off-topic,-,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+what software does ilm use,off_topic,Off-topic,-,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+what is adept software,off_topic,Off-topic,-,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+what is prms software,off_topic,Off-topic,-,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+which bookkeeping software is best,off_topic,Off-topic,-,BOFU-vendor,1,finance,,DATA UNAVAILABLE
+risk management software,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management software australia,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management software engineering,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management software uk,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management software free,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management software for small business,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management software for healthcare,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management software for construction,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management tools for safety professionals,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management tools for safety professionals pdf,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,noise (jobs/edu/consumer),DATA UNAVAILABLE
+risk management program for hockey team,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management program for corporate leaders,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+best risk management software,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+best risk management software for small business,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+best risk management software australia,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+best risk management software uk,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+best risk management tools,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+best risk management system,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+best risk management system for crash games,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+best risk management program,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+best enterprise risk management software,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+best vendor risk management software,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+financial risk management software companies,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+top risk management software companies,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+what is vendor management system,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+what is risk management software,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is risk management software engineering,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is risk management system,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is risk management program,off_topic,Off-topic,-,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+what is risk management tools,off_topic,Off-topic,-,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+what is risk management in software projects,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is enterprise risk management software,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management software cost,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+arm risk management software cost,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+project management software cost,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+what is cost management system,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+risk management tool open source,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management system open source,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+enterprise risk management software open source,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+@risk software alternative,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+alternative to software,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+vendor management examples,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+program management software,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+program management software tools,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+program management software free,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+program management software examples,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+program management software microsoft,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+program management software engineering,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+program management in software,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+program removal software,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+best program management software,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+top program management software,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+best free program management software,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+how to run software as administrator,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is software administration,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is program management software,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is the best program management software,off_topic,Off-topic,-,BOFU-vendor,1,alt_risk,,DATA UNAVAILABLE
+what is a software administrator,off_topic,Off-topic,-,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is a programme administrator,off_topic,Off-topic,-,TOFU-informational,1,alt_risk,,DATA UNAVAILABLE
+what systems do insurance companies use,off_topic,Off-topic,-,BOFU-vendor,1,core,,DATA UNAVAILABLE
+is aaa life insurance a good company,off_topic,Off-topic,-,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is vendors insurance,off_topic,Off-topic,-,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurance for software companies,off_topic,Off-topic,-,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurance for software,off_topic,Off-topic,-,MOFU-solution,1,core,,DATA UNAVAILABLE
+software for insurance verification,off_topic,Off-topic,-,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is comprehensive car insurance vs third party,off_topic,Off-topic,-,BOFU-vendor,1,core,,DATA UNAVAILABLE
+best insurance solutions,off_topic,Off-topic,-,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurance tech companies,off_topic,Off-topic,-,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurance tech companies in india,off_topic,Off-topic,-,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurance it companies,off_topic,Off-topic,-,BOFU-vendor,1,core,,DATA UNAVAILABLE
+what is insurance solutions,off_topic,Off-topic,-,TOFU-informational,1,core,,DATA UNAVAILABLE
+what is software coverage,off_topic,Off-topic,-,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is insurance coding,off_topic,Off-topic,-,TOFU-informational,1,core,,DATA UNAVAILABLE
+insurance management software open source,off_topic,Off-topic,-,MOFU-solution,1,core,,DATA UNAVAILABLE
+is open source software free for commercial use,off_topic,Off-topic,-,MOFU-solution,1,core,,DATA UNAVAILABLE
+what are the best open source software,off_topic,Off-topic,-,BOFU-vendor,1,core,,DATA UNAVAILABLE
+insurance inspection software,off_topic,Off-topic,-,MOFU-solution,1,services,,DATA UNAVAILABLE
+what is a policy administration system,pas_software,Policy Administration,Product,MOFU-solution,4,policy_admin,,DATA UNAVAILABLE
+what is policy administration,pas_software,Policy Administration,Product,TOFU-informational,4,policy_admin,,DATA UNAVAILABLE
+policy administration system in life insurance,pas_software,Policy Administration,Product,MOFU-solution,3,policy_admin,,DATA UNAVAILABLE
+policy administration system in insurance,pas_software,Policy Administration,Product,MOFU-solution,2,policy_admin,,DATA UNAVAILABLE
+what is policy administration system,pas_software,Policy Administration,Product,MOFU-solution,2,policy_admin,,DATA UNAVAILABLE
+what is policy administration system in insurance,pas_software,Policy Administration,Product,MOFU-solution,2,policy_admin,,DATA UNAVAILABLE
+policy management software for small business,pas_software,Policy Administration,Product,MOFU-solution,2,policy_admin,,DATA UNAVAILABLE
+policy management software for insurance agents,pas_software,Policy Administration,Product,MOFU-solution,2,policy_admin,,DATA UNAVAILABLE
+best insurance policy management software,pas_software,Policy Administration,Product,BOFU-vendor,2,policy_admin,,DATA UNAVAILABLE
+pas insurance policy,pas_software,Policy Administration,Product,MOFU-solution,2,policy_admin,,DATA UNAVAILABLE
+pas fees,pas_software,Policy Administration,Product,Navigational/ambiguous,2,policy_admin,,DATA UNAVAILABLE
+pas full form in insurance,pas_software,Policy Administration,Product,MOFU-solution,2,policy_admin,,DATA UNAVAILABLE
+policy administration system,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy administration system (pas),pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy administration system insurance,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy administration system book,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy administration system example,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy administration system architecture,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy administration system icon,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy administration system means,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy admin system examples,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+best policy administration systems,pas_software,Policy Administration,Product,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+best policy management systems,pas_software,Policy Administration,Product,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+best insurance policy administration systems,pas_software,Policy Administration,Product,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+what is policy management system,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+what is the policy management system that adena uses,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+what does a policy administration system do,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+open source policy administration system,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy administration software,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy administration software applications,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy management software,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy management software free,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy management software uk,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy management software healthcare,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy management software sharepoint,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy management software australia,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy management software for higher education,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy management software for healthcare,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+best policy management software,pas_software,Policy Administration,Product,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+what is policy management software,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+policy management software cost,pas_software,Policy Administration,Product,BOFU-vendor,1,policy_admin,,DATA UNAVAILABLE
+policy management software open source,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+insurance policy management software free download,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+insurance policy management software india,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+open source insurance policy management software,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+pas insurance,pas_software,Policy Administration,Product,Navigational/ambiguous,1,policy_admin,,DATA UNAVAILABLE
+pas insurance meaning,pas_software,Policy Administration,Product,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+pas insurance brokers,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+pas insurance software,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+pas insurance system,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+pas for insurance,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+pas in insurance meaning,pas_software,Policy Administration,Product,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+pas full form insurance,pas_software,Policy Administration,Product,MOFU-solution,1,policy_admin,,DATA UNAVAILABLE
+what is pas insurance,pas_software,Policy Administration,Product,TOFU-informational,1,policy_admin,,DATA UNAVAILABLE
+what is reinsurance accounting,reinsurance_accounting,Reinsurance,Product,TOFU-informational,2,reinsurance,,DATA UNAVAILABLE
+reinsurance accounting,reinsurance_accounting,Reinsurance,Product,Navigational/ambiguous,1,reinsurance,,DATA UNAVAILABLE
+reinsurance accounting jobs,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,noise (jobs/edu/consumer),DATA UNAVAILABLE
+reinsurance accounting jobs remote,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,noise (jobs/edu/consumer),DATA UNAVAILABLE
+reinsurance accounting manager,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance accounting journal entries,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance accounting course,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,noise (jobs/edu/consumer),DATA UNAVAILABLE
+reinsurance accounting entries,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance accounting training,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance accounting pdf,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,noise (jobs/edu/consumer),DATA UNAVAILABLE
+reinsurance accounting basics,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance accounting treatment,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance in accounting,reinsurance_accounting,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance accounting vs deposit accounting,reinsurance_accounting,Reinsurance,Product,BOFU-vendor,1,reinsurance,,DATA UNAVAILABLE
+what is reinsurance technical accounting,reinsurance_accounting,Reinsurance,Product,TOFU-informational,1,reinsurance,,DATA UNAVAILABLE
+what is reinsurance in corporate accounting,reinsurance_accounting,Reinsurance,Product,TOFU-informational,1,reinsurance,,DATA UNAVAILABLE
+what is reinsurance in advanced accounting,reinsurance_accounting,Reinsurance,Product,TOFU-informational,1,reinsurance,,DATA UNAVAILABLE
+reinsurance software vendors,reinsurance_software,Reinsurance,Product,BOFU-vendor,3,reinsurance,,DATA UNAVAILABLE
+reinsurance software companies,reinsurance_software,Reinsurance,Product,BOFU-vendor,3,reinsurance,,DATA UNAVAILABLE
+reinsurance fee,reinsurance_software,Reinsurance,Product,Navigational/ambiguous,2,reinsurance,,DATA UNAVAILABLE
+what is reinsurance premium,reinsurance_software,Reinsurance,Product,TOFU-informational,2,reinsurance,,DATA UNAVAILABLE
+reinsurance software,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance software solutions,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+sics reinsurance software,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+tai reinsurance software,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance broker software,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+sapiens reinsurance software,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance system software,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance management software,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+software for reinsurance brokers,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+largest reinsurance company in the world,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+top 10 reinsurance companies in the world,reinsurance_software,Reinsurance,Product,BOFU-vendor,1,reinsurance,,DATA UNAVAILABLE
+what is reinsurance program,reinsurance_software,Reinsurance,Product,TOFU-informational,1,reinsurance,,DATA UNAVAILABLE
+what is reinsurance,reinsurance_software,Reinsurance,Product,TOFU-informational,1,reinsurance,,DATA UNAVAILABLE
+reinsurance pricing software,reinsurance_software,Reinsurance,Product,BOFU-vendor,1,reinsurance,,DATA UNAVAILABLE
+reinsurance management system,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+reinsurance administration systems,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+what is retention in reinsurance,reinsurance_software,Reinsurance,Product,TOFU-informational,1,reinsurance,,DATA UNAVAILABLE
+accounting for reinsurance contracts,reinsurance_software,Reinsurance,Product,MOFU-solution,1,reinsurance,,DATA UNAVAILABLE
+what is the concept of reinsurance,reinsurance_software,Reinsurance,Product,TOFU-informational,1,reinsurance,,DATA UNAVAILABLE
+top insurance software development companies in india,insurance_sw_dev_services,Services,Service,BOFU-vendor,4,core;services,,DATA UNAVAILABLE
+top insurance software development companies,insurance_sw_dev_services,Services,Service,BOFU-vendor,4,core;services,,DATA UNAVAILABLE
+insurance software development companies in india,insurance_sw_dev_services,Services,Service,BOFU-vendor,4,services,,DATA UNAVAILABLE
+insurance app development company in bangalore,insurance_sw_dev_services,Services,Service,Service,4,services,,DATA UNAVAILABLE
+insurance software development cost,insurance_sw_dev_services,Services,Service,BOFU-vendor,3,core;services,,DATA UNAVAILABLE
+insurance app development company,insurance_sw_dev_services,Services,Service,Service,3,services,,DATA UNAVAILABLE
+what is coverage in software testing,insurance_sw_dev_services,Services,Service,MOFU-solution,2,core;services,,DATA UNAVAILABLE
+p&c insurance software applications,insurance_sw_dev_services,Services,Service,MOFU-solution,2,core,,DATA UNAVAILABLE
+insurance software development services,insurance_sw_dev_services,Services,Service,MOFU-solution,2,services,,DATA UNAVAILABLE
+insurance application development,insurance_sw_dev_services,Services,Service,Service,2,services,,DATA UNAVAILABLE
+top 10 insurance software development companies,insurance_sw_dev_services,Services,Service,BOFU-vendor,2,services,,DATA UNAVAILABLE
+insurance software development companies,insurance_sw_dev_services,Services,Service,BOFU-vendor,2,services,,DATA UNAVAILABLE
+insurance app development cost,insurance_sw_dev_services,Services,Service,BOFU-vendor,2,services,,DATA UNAVAILABLE
+health insurance app development cost,insurance_sw_dev_services,Services,Service,BOFU-vendor,2,services,,DATA UNAVAILABLE
+car insurance app development company,insurance_sw_dev_services,Services,Service,Service,2,services,,DATA UNAVAILABLE
+insurance software testing jobs,insurance_sw_dev_services,Services,Service,MOFU-solution,2,services,noise (jobs/edu/consumer),DATA UNAVAILABLE
+what is test coverage in software testing,insurance_sw_dev_services,Services,Service,MOFU-solution,2,services,,DATA UNAVAILABLE
+insurance company application form,insurance_sw_dev_services,Services,Service,MOFU-solution,1,group,,DATA UNAVAILABLE
+pets best insurance customer login,insurance_sw_dev_services,Services,Service,BOFU-vendor,1,distribution,noise (jobs/edu/consumer),DATA UNAVAILABLE
+good2go insurance customer service,insurance_sw_dev_services,Services,Service,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+great west insurance customer service,insurance_sw_dev_services,Services,Service,MOFU-solution,1,distribution,,DATA UNAVAILABLE
+risk management software development,insurance_sw_dev_services,Services,Service,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management software applications,insurance_sw_dev_services,Services,Service,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+risk management for software development,insurance_sw_dev_services,Services,Service,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is risk management system in customs,insurance_sw_dev_services,Services,Service,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is risk management in software development,insurance_sw_dev_services,Services,Service,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+what is risk management in software testing,insurance_sw_dev_services,Services,Service,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+program management for software development,insurance_sw_dev_services,Services,Service,MOFU-solution,1,alt_risk,,DATA UNAVAILABLE
+insurance application form listening answers,insurance_sw_dev_services,Services,Service,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance application form pdf,insurance_sw_dev_services,Services,Service,MOFU-solution,1,core,noise (jobs/edu/consumer),DATA UNAVAILABLE
+insurance application form alberta,insurance_sw_dev_services,Services,Service,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance application for general contractor,insurance_sw_dev_services,Services,Service,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance application for restaurant,insurance_sw_dev_services,Services,Service,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance software development company,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+insurance software development,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+insurance software developer jobs,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,noise (jobs/edu/consumer),DATA UNAVAILABLE
+health insurance software development,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+custom insurance software development,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+insurance for software development,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+what is a software development plan,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+insurance app development,insurance_sw_dev_services,Services,Service,Service,1,services,,DATA UNAVAILABLE
+insurance mobile app development,insurance_sw_dev_services,Services,Service,Service,1,services,,DATA UNAVAILABLE
+health insurance app development,insurance_sw_dev_services,Services,Service,Service,1,services,,DATA UNAVAILABLE
+car insurance app development,insurance_sw_dev_services,Services,Service,Service,1,services,,DATA UNAVAILABLE
+how much does it cost to develop a mobile app,insurance_sw_dev_services,Services,Service,BOFU-vendor,1,services,,DATA UNAVAILABLE
+how much does it cost to design an app,insurance_sw_dev_services,Services,Service,BOFU-vendor,1,services,,DATA UNAVAILABLE
+how much does it cost to develop and maintain an app,insurance_sw_dev_services,Services,Service,BOFU-vendor,1,services,,DATA UNAVAILABLE
+coverage software testing,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+insurance domain software testing interview questions,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,noise (jobs/edu/consumer),DATA UNAVAILABLE
+insurance domain in software testing,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+insurance domain projects in software testing,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+software testing companies near me,insurance_sw_dev_services,Services,Service,BOFU-vendor,1,services,noise (jobs/edu/consumer),DATA UNAVAILABLE
+what is coverage criteria in software testing,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+what is coverage analysis in software testing,insurance_sw_dev_services,Services,Service,MOFU-solution,1,services,,DATA UNAVAILABLE
+insurance core system modernization,legacy_modernization,Services,Service/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+insurance core system transformation,legacy_modernization,Services,Service/Content,MOFU-solution,1,core,,DATA UNAVAILABLE
+what is soft underwriting,uw_software,Underwriting,Product,TOFU-informational,3,underwriting,,DATA UNAVAILABLE
+underwriting software for insurance,uw_software,Underwriting,Product,MOFU-solution,2,underwriting,,DATA UNAVAILABLE
+best insurance underwriting software,uw_software,Underwriting,Product,BOFU-vendor,2,underwriting,,DATA UNAVAILABLE
+what is insurance underwriting,uw_software,Underwriting,Product,TOFU-informational,2,underwriting,,DATA UNAVAILABLE
+is insurance underwriting hard,uw_software,Underwriting,Product,MOFU-solution,2,underwriting,,DATA UNAVAILABLE
+what is underwriting with example,uw_software,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+what is the role of underwriting,uw_software,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+underwriting software,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+underwriting software real estate,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+underwriting software solutions,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+underwriting software mortgage,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+underwriting software examples,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+ai underwriting software,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+loan underwriting software,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+multifamily underwriting software,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+software for underwriting,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+what is upfront underwriting,uw_software,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+best underwriting software,uw_software,Underwriting,Product,BOFU-vendor,1,underwriting,,DATA UNAVAILABLE
+best multifamily underwriting software,uw_software,Underwriting,Product,BOFU-vendor,1,underwriting,,DATA UNAVAILABLE
+best real estate underwriting software,uw_software,Underwriting,Product,BOFU-vendor,1,underwriting,,DATA UNAVAILABLE
+best commercial loan underwriting software,uw_software,Underwriting,Product,BOFU-vendor,1,underwriting,,DATA UNAVAILABLE
+what is underwriting software,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+what is program underwriting,uw_software,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+what is underwriter review,uw_software,Underwriting,Product,BOFU-vendor,1,underwriting,,DATA UNAVAILABLE
+what is underwriting,uw_software,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+what is an underwriting file,uw_software,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+insurance underwriting platform,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+insurance underwriting software,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+insurance underwriting system,uw_software,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+what does it mean to underwrite an insurance policy,uw_software,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+how to learn insurance underwriting,uw_software,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+underwriting workbench software,uw_workbench,Underwriting,Product,MOFU-solution,2,underwriting,,DATA UNAVAILABLE
+underwriting workbench,uw_workbench,Underwriting,Product,Navigational/ambiguous,1,underwriting,,DATA UNAVAILABLE
+underwriting workbench meaning,uw_workbench,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+underwriting workbench insurance,uw_workbench,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+underwriting workbench solutions,uw_workbench,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+underwriting workbench guidewire,uw_workbench,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+underwriting workbench salesforce,uw_workbench,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+underwriting workbench providers,uw_workbench,Underwriting,Product,BOFU-vendor,1,underwriting,,DATA UNAVAILABLE
+underwriting workbench example,uw_workbench,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+underwriting workbench capgemini,uw_workbench,Underwriting,Product,MOFU-solution,1,underwriting,,DATA UNAVAILABLE
+underwriting workbench vendors,uw_workbench,Underwriting,Product,BOFU-vendor,1,underwriting,,DATA UNAVAILABLE
+what is an underwriting workbench,uw_workbench,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+what is underwriting workbench in insurance,uw_workbench,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE
+what is underwriting workbench,uw_workbench,Underwriting,Product,TOFU-informational,1,underwriting,,DATA UNAVAILABLE

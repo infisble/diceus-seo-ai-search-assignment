@@ -1,0 +1,38 @@
+{
+ "generic_service|mobile": {
+  "url": "https://diceus.com/services/custom-software-development/",
+  "perf_score": 0.88,
+  "lcp_lab_ms": 3388.3450000000003,
+  "cls_lab": 0,
+  "tbt_lab_ms": 0,
+  "fcp_lab_ms": 1811.23,
+  "page_weight_kb": 198,
+  "dom_size": 1803,
+  "source": "local Lighthouse 12 (mobile emulation, 1 run) - PSI API quota exhausted",
+  "field_data": "DATA UNAVAILABLE (CrUX needs API key)"
+ },
+ "home|mobile": {
+  "url": "https://diceus.com/",
+  "perf_score": 0.77,
+  "lcp_lab_ms": 3763.9664000000002,
+  "cls_lab": 0.0017534776753096444,
+  "tbt_lab_ms": 7,
+  "fcp_lab_ms": 2540.2645,
+  "page_weight_kb": 517,
+  "dom_size": 2294,
+  "source": "local Lighthouse 12 (mobile emulation, 1 run) - PSI API quota exhausted",
+  "field_data": "DATA UNAVAILABLE (CrUX needs API key)"
+ },
+ "product_captive|mobile": {
+  "url": "https://diceus.com/insurance/solutions/captive-insurance/captive-insurance-software/",
+  "perf_score": 0.58,
+  "lcp_lab_ms": 12205.0371,
+  "cls_lab": 0.009109319317216123,
+  "tbt_lab_ms": 3,
+  "fcp_lab_ms": 3791.554,
+  "page_weight_kb": 557,
+  "dom_size": 1590,
+  "source": "local Lighthouse 12 (mobile emulation, 1 run) - PSI API quota exhausted",
+  "field_data": "DATA UNAVAILABLE (CrUX needs API key)"
+ }
+}

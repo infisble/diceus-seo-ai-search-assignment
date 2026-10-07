@@ -1,0 +1,33 @@
+{'label': 'http->https', 'url': 'http://diceus.com/', 'ua': 'Mozilla/5.0 (compatible; SEO-assignment-', 'status': 301, 'location': 'https://diceus.com/', 'bytes': 167, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'www->non-www', 'url': 'https://www.diceus.com/', 'ua': 'Mozilla/5.0 (compatible; SEO-assignment-', 'status': 301, 'location': 'https://diceus.com/', 'bytes': 304, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'http+www', 'url': 'http://www.diceus.com/', 'ua': 'Mozilla/5.0 (compatible; SEO-assignment-', 'status': 301, 'location': 'https://www.diceus.com/', 'bytes': 167, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'no trailing slash', 'url': 'https://diceus.com/insurance', 'ua': 'Mozilla/5.0 (compatible; SEO-assignment-', 'status': 301, 'location': 'https://diceus.com/insurance/', 'bytes': 314, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'uppercase path', 'url': 'https://diceus.com/Insurance/', 'ua': 'Mozilla/5.0 (compatible; SEO-assignment-', 'status': 301, 'location': 'https://diceus.com/insurance/', 'bytes': 314, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'random 404', 'url': 'https://diceus.com/this-page-should-not-exist-xyz123/', 'ua': 'Mozilla/5.0 (compatible; SEO-assignment-', 'status': 404, 'location': None, 'bytes': 206836, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'index.php', 'url': 'https://diceus.com/index.php', 'ua': 'Mozilla/5.0 (compatible; SEO-assignment-', 'status': 200, 'location': None, 'bytes': 354727, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'llms.txt', 'url': 'https://diceus.com/llms.txt', 'ua': 'Mozilla/5.0 (compatible; SEO-assignment-', 'status': 200, 'location': None, 'bytes': 369, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'query param dup', 'url': 'https://diceus.com/insurance/?ref=test', 'ua': 'Mozilla/5.0 (compatible; SEO-assignment-', 'status': 200, 'location': None, 'bytes': 367320, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'ai-ua GPTBot', 'url': 'https://diceus.com/insurance/solutions/', 'ua': 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, l', 'status': 200, 'location': None, 'bytes': 288760, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'ai-ua ClaudeBot', 'url': 'https://diceus.com/insurance/solutions/', 'ua': 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, l', 'status': 200, 'location': None, 'bytes': 288760, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'ai-ua PerplexityBot', 'url': 'https://diceus.com/insurance/solutions/', 'ua': 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, l', 'status': 200, 'location': None, 'bytes': 288760, 'x_robots': None, 'server': 'cloudflare'}
+{'label': 'baseline UA', 'url': 'https://diceus.com/insurance/solutions/', 'ua': 'Mozilla/5.0 (compatible; SEO-assignment-', 'status': 200, 'location': None, 'bytes': 288760, 'x_robots': None, 'server': 'cloudflare'}
+homepage|mobile Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+homepage|desktop Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+insurance_hub|mobile Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+insurance_hub|desktop Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+product_pas|mobile Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+product_pas|desktop Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+product_captive|mobile Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+product_captive|desktop Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+insurance_service|mobile Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+insurance_service|desktop Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+generic_service|mobile Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+generic_service|desktop Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+industry|mobile Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+industry|desktop Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+expertise|mobile Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+expertise|desktop Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+blog_post|mobile Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+blog_post|desktop Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+case|mobile Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.
+case|desktop Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'.

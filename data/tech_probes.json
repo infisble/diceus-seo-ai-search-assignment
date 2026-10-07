@@ -1,0 +1,132 @@
+[
+ {
+  "label": "http->https",
+  "url": "http://diceus.com/",
+  "ua": "Mozilla/5.0 (compatible; SEO-assignment-",
+  "status": 301,
+  "location": "https://diceus.com/",
+  "bytes": 167,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "www->non-www",
+  "url": "https://www.diceus.com/",
+  "ua": "Mozilla/5.0 (compatible; SEO-assignment-",
+  "status": 301,
+  "location": "https://diceus.com/",
+  "bytes": 304,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "http+www",
+  "url": "http://www.diceus.com/",
+  "ua": "Mozilla/5.0 (compatible; SEO-assignment-",
+  "status": 301,
+  "location": "https://www.diceus.com/",
+  "bytes": 167,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "no trailing slash",
+  "url": "https://diceus.com/insurance",
+  "ua": "Mozilla/5.0 (compatible; SEO-assignment-",
+  "status": 301,
+  "location": "https://diceus.com/insurance/",
+  "bytes": 314,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "uppercase path",
+  "url": "https://diceus.com/Insurance/",
+  "ua": "Mozilla/5.0 (compatible; SEO-assignment-",
+  "status": 301,
+  "location": "https://diceus.com/insurance/",
+  "bytes": 314,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "random 404",
+  "url": "https://diceus.com/this-page-should-not-exist-xyz123/",
+  "ua": "Mozilla/5.0 (compatible; SEO-assignment-",
+  "status": 404,
+  "location": null,
+  "bytes": 206836,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "index.php",
+  "url": "https://diceus.com/index.php",
+  "ua": "Mozilla/5.0 (compatible; SEO-assignment-",
+  "status": 200,
+  "location": null,
+  "bytes": 354727,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "llms.txt",
+  "url": "https://diceus.com/llms.txt",
+  "ua": "Mozilla/5.0 (compatible; SEO-assignment-",
+  "status": 200,
+  "location": null,
+  "bytes": 369,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "query param dup",
+  "url": "https://diceus.com/insurance/?ref=test",
+  "ua": "Mozilla/5.0 (compatible; SEO-assignment-",
+  "status": 200,
+  "location": null,
+  "bytes": 367320,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "ai-ua GPTBot",
+  "url": "https://diceus.com/insurance/solutions/",
+  "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, l",
+  "status": 200,
+  "location": null,
+  "bytes": 288760,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "ai-ua ClaudeBot",
+  "url": "https://diceus.com/insurance/solutions/",
+  "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, l",
+  "status": 200,
+  "location": null,
+  "bytes": 288760,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "ai-ua PerplexityBot",
+  "url": "https://diceus.com/insurance/solutions/",
+  "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, l",
+  "status": 200,
+  "location": null,
+  "bytes": 288760,
+  "x_robots": null,
+  "server": "cloudflare"
+ },
+ {
+  "label": "baseline UA",
+  "url": "https://diceus.com/insurance/solutions/",
+  "ua": "Mozilla/5.0 (compatible; SEO-assignment-",
+  "status": 200,
+  "location": null,
+  "bytes": 288760,
+  "x_robots": null,
+  "server": "cloudflare"
+ }
+]
